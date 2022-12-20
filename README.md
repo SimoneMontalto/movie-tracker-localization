@@ -1,4 +1,4 @@
-### movie.tracker-localization
+### movie-tracker-localization
 
 This is the community language repository for [Movie Tracker](https://apps.apple.com/us/app/movie-tracker-watchlist-track/id6443877426).
 
