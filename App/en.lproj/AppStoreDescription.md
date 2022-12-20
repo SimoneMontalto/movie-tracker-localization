@@ -1,3 +1,6 @@
+Title: Movie Tracker: Watchlist track
+Subtitle: Watch list Film and TV Show
+
 Movie Tracker is the perfect app for iPhone, iPad and Mac to easily keep track of the Movies and TV Shows you want to watch.
 
 People who spend a lot of time by seeing Movies and TV Shows know how much is difficult to keep track of all the movies they want to see. In this scenarios Movie Tracker will become the first actor by helping them to track and organize all the Movies and TV Shows in customized watchlists. 
