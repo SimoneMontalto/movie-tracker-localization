@@ -1,0 +1,166 @@
+/* 
+  Localizable.strings
+  MovieTrackerApp
+
+  Created by Simone Montalto on 14/10/22.
+  
+*/
+
+"Edit" = "Modifica";
+"Create" = "Creare";
+"Website" = "Sito web";
+"URL" = "URL";
+"Title" = "Titolo";
+"OriginalTitle" = "Titolo originale";
+"Description" = "Descrizione";
+"Language" = "Lingua";
+"Languages" = "Lingue";
+"Country" = "Paese";
+"OriginCountry" = "Paese di origine";
+"ReleaseDate" = "Data di rilascio";
+"Link" = "Link";
+"AverageRate" = "Voto medio";
+"ProductionCompanies" = "Compagnie produttrici";
+"ProductionCountries" = "Paesi di produzione";
+"Directors" = "Registi";
+"Categories" = "Generi";
+"Actors" = "Attori";
+"Spaces" = "Spazi";
+"Tags" = "Tag";
+"Source" = "Sorgente";
+"ReleaseStatus" = "Stato di rilascio";
+"Video" = "Video";
+"EpisodeCount" = "Numero di episodi";
+"SeasonNumber" = "Stagione";
+"AirDate" = "Data di messa in onda";
+"NumberOfEpisodes" = "Numero di episodi";
+"NumberOfSeasons" = "Numero di stagioni";
+"Videos" = "Video";
+"Seasons" = "Stagioni";
+"Watched" = "Visto";
+"Runtime" = "Durata";
+
+"Name" = "Nome";
+"NameQuestion" = "Qual è il nome?";
+"Surname" = "Cognome";
+"SurnameQuestion" = "Qual è il cognome?";
+
+"Tag" = "Tag";
+"CreateTag" = "Crea Tag";
+"CreateTagDescription" = "Crea un nuovo Tag";
+"Create ${name} tag" = "Crea tag ${name}";
+"TagCreated" = "Il Tag è stato creato con successo";
+
+"Space" = "Spazio";
+"CreateSpace" = "Crea Spazio";
+"CreateSpaceDescription" = "Crea un nuovo Spazio";
+"Create ${name} space" = "Crea spazio ${name}";
+"SpaceCreated" = "Lo Spazio è stato creato con successo";
+
+"Backlog" = "Raccolta";
+"Category" = "Genere";
+"Creator" = "Creator";
+"Creators" = "Autore";
+"RemoteSource" = "Sorgente";
+"tmdb" = "TMDB";
+
+"Movie" = "Film";
+"MovieReleaseStatus" = "Stato di uscita del film";
+
+"TvShow" = "Serie TV";
+"TvShowSeason" = "Stagioni Serie TV";
+"TvShowSeasonQuestion" = "Qual è la stagione della Serie TV?";
+"TvShowReleaseStatus" = "Stato di rilascio Serie TV";
+
+"Rumored" = "Rumor";
+"Planned" = "Pianificato";
+"In Production" = "In Produzione";
+"Post Production" = "Post Produzione";
+"Released" = "Rilasciato";
+"Canceled" = "Cancellato";
+"Pilot" = "Pilota";
+"Ended" = "Finito";
+"Returning Series" = "Serie di Ritorno";
+
+"Add" = "Aggiungi";
+"Move" = "Sposta";
+"Watch" = "Guarda";
+"TagsQuestion" = "Quali sono i tag?";
+
+"Movies" = "Film";
+"MoviesQuestion" = "Quali sono i film?";
+"AddTagsToMovies" = "Aggiungi Tag ai Film";
+"AddTagsToMoviesDescription" = "Assegna uno o più tag ai film selezionati";
+"Assign ${tags} to ${movies}" = "Assegna ${tags} a ${movies}";
+"MoviesUpdated" = "Film aggiornati";
+
+"TvShows" = "Serie TV";
+"TvShowsQuestion" = "Quali sono le serie tv?";
+"AddTagsToTvShows" = "Aggiungi Tag alle Serie TV";
+"AddTagsToTvShowsDescription" = "Assegna uno o più tag alle serie tv selezionate";
+"Assign ${tags} to ${tvShows}" = "Assegna ${tags} a ${tvShows}";
+"TvShowsUpdated" = "Serie TV aggiornate";
+
+"SpaceQuestion" = "Qual è lo Spazio?";
+"MoveMoviesToSpace" = "Sposta Film nello Spazio";
+"MoveMoviesToSpaceDescription" = "Sposta i film nello spazio selezionato";
+"Move ${movies} to ${space}" = "Sposta ${movies} in ${space}";
+"SpaceNotFoundError" = "Lo spazio selezionato non è stato trovato.";
+"MovieNotFoundError" = "Il film selezionato non è stato trovato.";
+"TvShowNotFoundError" = "La serie tv selezionata non è stata trovata.";
+"CannotSearchWatchProvidersForSelectedItemError" = "Impossibile cercare le piattaforme su cui è possibile vedere l'elemento selezionato.";
+
+"MoveTvShowsToSpace" = "Sposta Serie TV nello Spazio";
+"MoveTvShowsToSpaceDescription" = "Sposta le serie tv nello spazio selezionato";
+"Move ${tvShows} to ${space}" = "Sposta ${tvShows} in ${space}";
+
+"MoveMoviesToBacklog" = "Sposta Film nella Raccolta";
+"MoveMoviesToBacklogDescription" = "Sposta i film nella raccolta";
+"Move ${movies} to the Backlog" = "Sposta ${movies} nella Raccolta";
+
+"MoveTvShowsToBacklog" = "Sposta Serie TV nella Raccolta";
+"MoveTvShowsToBacklogDescription" = "Sposta le serie tv nella raccolta";
+"Move ${tvShows} to the Backlog" = "Sposta ${tvShows} nella Raccolta";
+
+"MovieQuestion" = "Qual è il film?";
+"WatchProvidersForMovie" = "Dove Vedere Film";
+"WatchProvidersForMovieDescription" = "Controlla su quale piattaforma puoi vedere il film selezionato";
+"Where can I watch ${movie} in ${country}?" = "Dove posso vedere ${movie} in ${country}?";
+
+"TvShowQuestion" = "Qual è la serie tv?";
+"WatchProvidersForTvShow" = "Dove Vedere Serie TV";
+"WatchProvidersForTvShowDescription" = "Controlla su quale piattaforma puoi vedere la serie tv selezionata";
+"Where can I watch ${tvShow} in ${country}?" = "Dove posso vedere ${tvShow} in ${country}?";
+
+"Country" = "Paese";
+"CountryQuestion" = "Qual è il Paese?";
+"NoProvidersForCountryMessage" = "Nessun provider per il Paese selezionato";
+"Streaming" = "Streaming";
+"Buy" = "Acquisto";
+"Rent" = "Noleggio";
+
+"Activity" = "Attività";
+"Date" = "Data";
+"DateQuestion" = "Qual è la data?";
+
+"MarkedAsWatched" = "Segnato come visto";
+"MarkMovieAsWatched" = "Segna Film come Visto";
+"MarkMovieAsWatchedDescription" = "Segna il film come visto nella data selezionata";
+"Mark ${movie} as watched ${date}" = "Segna ${movie} come visto ${date}";
+
+"MarkTvShowAsWatchedAsWatched" = "Segna Serie TV come Vista";
+"MarkTvShowAsWatchedAsWatchedDescription" = "Segna la serie tv come vista nella data selezionata";
+"Mark ${tvShow} as watched ${date}" = "Segna ${tvShow} come vista ${date}";
+
+"MarkTvShowSeasonAsWatched" = "Segna Stagione come Vista";
+"MarkTvShowSeasonAsWatchedDescription" = "Segna la stagione della serie tv come vista nella data selezionata";
+"Mark ${tvShowSeason} as watched ${date}" = "Segna ${tvShowSeason} come vista ${date}";
+
+"Note" = "Nota";
+"Notes" = "Note";
+"Rating" = "Voto";
+"Ratings" = "Voti";
+
+"WatchStatus" = "Stato di visione";
+"Watching" = "In corso";
+"NotWatched" = "Non visto";

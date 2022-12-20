@@ -1,0 +1,166 @@
+/* 
+  Localizable.strings
+  MovieTrackerApp
+
+  Created by Simone Montalto on 14/10/22.
+  
+*/
+
+"Edit" = "Edit";
+"Create" = "Create";
+"Website" = "Website";
+"URL" = "URL";
+"Title" = "Title";
+"OriginalTitle" = "Original title";
+"Description" = "Description";
+"Language" = "Language";
+"Languages" = "Languages";
+"Country" = "Country";
+"OriginCountry" = "Origin country";
+"ReleaseDate" = "Release date";
+"Link" = "Link";
+"AverageRate" = "Average rate";
+"ProductionCompanies" = "Production companies";
+"ProductionCountries" = "Production countries";
+"Directors" = "Directors";
+"Categories" = "Categories";
+"Actors" = "Actors";
+"Spaces" = "Spaces";
+"Tags" = "Tags";
+"Source" = "Source";
+"ReleaseStatus" = "Release status";
+"Video" = "Video";
+"EpisodeCount" = "Episode count";
+"SeasonNumber" = "Season number";
+"AirDate" = "Air date";
+"NumberOfEpisodes" = "Number of episodes";
+"NumberOfSeasons" = "Number of seasons";
+"Videos" = "Videos";
+"Seasons" = "Seasons";
+"Watched" = "Watched";
+"Runtime" = "Runtime";
+
+"Name" = "Name";
+"NameQuestion" = "What's the name?";
+"Surname" = "Surname";
+"SurnameQuestion" = "What's the surname?";
+
+"Tag" = "Tag";
+"CreateTag" = "Create Tag";
+"CreateTagDescription" = "Create a new Tag";
+"Create ${name} tag" = "Create ${name} tag";
+"TagCreated" = "The Tag was created successfully";
+
+"Space" = "Space";
+"CreateSpace" = "Create Space";
+"CreateSpaceDescription" = "Create a new Space";
+"Create ${name} space" = "Create ${name} space";
+"SpaceCreated" = "The Space was created successfully";
+
+"Backlog" = "Backlog";
+"Category" = "Category";
+"Creator" = "Creator";
+"Creators" = "Creators";
+"RemoteSource" = "Remote source";
+"tmdb" = "TMDB";
+
+"Movie" = "Movie";
+"MovieReleaseStatus" = "Movie release status";
+
+"TvShow" = "TV Show";
+"TvShowSeason" = "TV Show Season";
+"TvShowSeasonQuestion" = "What's the TV Show Season?";
+"TvShowReleaseStatus" = "TV Show release status";
+
+"Rumored" = "Rumored";
+"Planned" = "Planned";
+"In Production" = "In Production";
+"Post Production" = "Post Production";
+"Released" = "Released";
+"Canceled" = "Canceled";
+"Pilot" = "Pilot";
+"Ended" = "Ended";
+"Returning Series" = "Returning Series";
+
+"Add" = "Add";
+"Move" = "Move";
+"Watch" = "Watch";
+"TagsQuestion" = "What are the tags?";
+
+"Movies" = "Movies";
+"MoviesQuestion" = "What are the movies?";
+"AddTagsToMovies" = "Add Tags to Movies";
+"AddTagsToMoviesDescription" = "Assign one or more tags to the selected movies";
+"Assign ${tags} to ${movies}" = "Assign ${tags} to ${movies}";
+"MoviesUpdated" = "Movies updated";
+
+"TvShows" = "TV Shows";
+"TvShowsQuestion" = "What are the tv shows?";
+"AddTagsToTvShows" = "Add Tags to TV Shows";
+"AddTagsToTvShowsDescription" = "Assign one or more tags to the selected tv shows";
+"Assign ${tags} to ${tvShows}" = "Assign ${tags} to ${tvShows}";
+"TvShowsUpdated" = "TV Shows updated";
+
+"SpaceQuestion" = "What's the Space?";
+"MoveMoviesToSpace" = "Move Movies to Space";
+"MoveMoviesToSpaceDescription" = "Move the movies to the selected space";
+"Move ${movies} to ${space}" = "Move ${movies} to ${space}";
+"SpaceNotFoundError" = "The selected space was not found.";
+"MovieNotFoundError" = "The selected movie was not found.";
+"TvShowNotFoundError" = "The selected tv show was not found.";
+"CannotSearchWatchProvidersForSelectedItemError" = "Cannot search watch providers for the selected item.";
+
+"MoveTvShowsToSpace" = "Move Tv Shows to Space";
+"MoveTvShowsToSpaceDescription" = "Move the tv shows to the selected space";
+"Move ${tvShows} to ${space}" = "Move ${tvShows} to ${space}";
+
+"MoveMoviesToBacklog" = "Move Movies to Backlog";
+"MoveMoviesToBacklogDescription" = "Move the movies to the backlog";
+"Move ${movies} to the Backlog" = "Move ${movies} to the Backlog";
+
+"MoveTvShowsToBacklog" = "Move TV Shows to Backlog";
+"MoveTvShowsToBacklogDescription" = "Move the tv shows to the backlog";
+"Move ${tvShows} to the Backlog" = "Move ${tvShows} to the Backlog";
+
+"MovieQuestion" = "What's the movie?";
+"WatchProvidersForMovie" = "Watch Providers for Movie";
+"WatchProvidersForMovieDescription" = "Check on which platform you can see the selected movie";
+"Where can I watch ${movie} in ${country}?" = "Where can I see ${movie} in ${country}?";
+
+"TvShowQuestion" = "What's the tv show?";
+"WatchProvidersForTvShow" = "Watch Providers for TV Show";
+"WatchProvidersForTvShowDescription" = "Check on which platform you can see the selected tv show";
+"Where can I watch ${tvShow} in ${country}?" = "Where can I see ${tvShow} in ${country}?";
+
+"Country" = "Country";
+"CountryQuestion" = "What's the country?";
+"NoProvidersForCountryMessage" = "No providers for the selected Country";
+"Streaming" = "Streaming";
+"Buy" = "Buy";
+"Rent" = "Rent";
+
+"Activity" = "Activity";
+"Date" = "Date";
+"DateQuestion" = "What's the date?";
+
+"MarkedAsWatched" = "Marked as watched";
+"MarkMovieAsWatched" = "Mark Movie as Watched";
+"MarkMovieAsWatchedDescription" = "Mark the movie as watched in the selected date";
+"Mark ${movie} as watched ${date}" = "Mark ${movie} as watched ${date}";
+
+"MarkTvShowAsWatched" = "Mark TV Show as Watched";
+"MarkTvShowAsWatchedDescription" = "Mark the tv show as watched in the selected date";
+"Mark ${tvShow} as watched ${date}" = "Mark ${tvShow} as watched ${date}";
+
+"MarkTvShowSeasonAsWatched" = "Mark TV Show Season as Watched";
+"MarkTvShowSeasonAsWatchedDescription" = "Mark the tv show season as watched in the selected date";
+"Mark ${tvShowSeason} as watched ${date}" = "Mark ${tvShowSeason} as watched ${date}";
+
+"Note" = "Note";
+"Notes" = "Notes";
+"Rating" = "Rating";
+"Ratings" = "Ratings";
+
+"WatchStatus" = "Watch status";
+"Watching" = "Watching";
+"NotWatched" = "Not watched";

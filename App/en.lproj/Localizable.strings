@@ -1,0 +1,274 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Simone Montalto on 02/09/22.
+  
+*/
+
+"WaitLoading" = "Please wait...";
+
+"Movie" = "Movies";
+"TvShow" = "TV Shows";
+"SearchMovie" = "Search Movies";
+"SearchTvShow" = "Search TV Shows";
+
+"Settings" = "Settings";
+"Save" = "Save";
+"Manage" = "Manage";
+"Suggestions" = "Suggestions";
+"Move" = "Move";
+"All" = "All";
+"Sort" = "Sort";
+"Show" = "Show";
+"Layout" = "Layout";
+"Edit" = "Edit";
+"Delete" = "Delete";
+"Cancel" = "Cancel";
+"Search" = "Search";
+"SearchPlaceholder" = "Search online by title";
+"OthersSelectedActor" = "Others of the selected actor";
+"BacklogPlaceholder" = "In this section you will see the items added to the Backlog to organize in Spaces";
+"WatchedPlaceholder" = "In this section you will see the items that you have Watched";
+"SpacePlaceholder" = "In this section you will see the elements added to the selected Space";
+"TagPlaceholder" = "In this section you will see the elements added to the selected Tag";
+"SpacesPlaceholder" = "In this section you will see the list of your Spaces";
+"NoSimilarMoviesPlaceholder" = "No similar Movies";
+"NoSimilarTvShowsPlaceholder" = "No similar TV Shows";
+"NoRecommendedMoviesPlaceholder" = "No recommended Movies";
+"NoRecommendedTvShowsPlaceholder" = "No recommended TV Shows";
+"NoSpacesPlaceholder" = "No Space has been created";
+"NoNotesPlaceholder" = "No Note has been created";
+"NoTagsPlaceholder" = "No Tag has been created";
+"Select" = "Select";
+"Country" = "Country";
+"Attention" = "Attention";
+"GenericErrorMessage" = "An error occurred. Please, try again.";
+"Ok" = "Ok";
+"SearchOnline" = "Search Online";
+"Backlog" = "Backlog";
+"Spaces" = "Spaces";
+"FavoriteSpaces" = "Favorite Spaces";
+"Tags" = "Tags";
+"CreateTag" = "Create Tag";
+"AddTag" = "Add Tag";
+"SelectTags" = "Select Tags";
+"AddSpace" = "Add Space";
+"SelectSpace" = "Select Space";
+"AddFavoriteSpace" = "Add Favorite Space";
+
+"SearchErrorMessage" = "An error occurred during the search. Try again.";
+"SaveNotEnabledErrorMessage" = "Error while saving. Fill in all the fields to be able to proceed.";
+"ItemAlreadyPersistedLocallyErrorMessage" = "The item already exists locally.";
+"DeleteLocalSpaceInfoMessage" = "The action is not reversible. Movies and TV Shows within this space will be moved to the Backlog. Do you want to proceed?";
+"DeleteInfoMessage" = "The action is not reversible. Do you want to proceed?";
+"SpaceAlreadyInFavoriteSpacesMessage" = "The selected space has already been added to your favorites.";
+"DeleteLocalItemMessage" = "Are you sure you want to proceed with deleting the item?";
+"NoProvidersForCountryMessage" = "No providers for the selected Country";
+"NoProvidersForContentMessage" = "No providers for this content";
+
+"Title" = "Title";
+"Description" = "Description";
+"Publisher" = "Publisher";
+"Producers" = "Producers";
+"Seasons" = "Seasons";
+"Actors" = "Actors";
+"Language" = "Language";
+"Year" = "Year";
+"Duration" = "Runtime";
+"ReleaseDate" = "Release Date";
+"Add" = "Add";
+"AddToBacklog" = "Add to Backlog";
+"MoveTo" = "Move to...";
+"MoveToBacklog" = "Move to Backlog";
+"MoveToSpace" = "Move to Space";
+"AddToSpace" = "Add to Space";
+"CreateSpace" = "Create Space";
+"EditSpace" = "Edit Space";
+"ShowMore" = "Show more";
+"ShowLess" = "Show less";
+"Name" = "Name";
+"InsertName" = "Insert name";
+"Color" = "Color";
+"Icon" = "Icon";
+"RemoveFavorite" = "Remove favorite";
+"AddFavorite" = "Add favorite";
+"SelectIcon" = "Select Icon";
+"More..." = "More...";
+"AssignTag" = "Assign Tag";
+"CreateTag" = "Create Tag";
+"TMDB" = "TMDB";
+"YourRate" = "User";
+"Streaming" = "Streaming";
+"Buy" = "Buy";
+"Rent" = "Rent";
+"WatchProviders" = "Watch Providers";
+"ProvidedBy" = "provided by";
+"OpenWebsite" = "Open website";
+"Video" = "Video";
+"ShowSimilarMovies" = "Show similar Movies";
+"ShowSimilarTvShows" = "Show similar TV Shows";
+"ShowRecommendedMovies" = "Show recommended Movies";
+"ShowRecommendedTvShows" = "Show recommended TV Shows";
+"Similar" = "Similar";
+"Recommended" = "Recommended";
+"RateIt" = "Rate it";
+"Note" = "Note";
+"InsertNoteOptional" = "Insert note (optional)";
+"InsertNote" = "Insert note";
+"AddRating" = "Add rating";
+"EditRating" = "Edit rating";
+
+"SpecialOccasions" = "Special occasions";
+"TransportationAndTravel" = "Transportation and travel";
+"FoodAndOutings" = "Food and outings";
+"MoviesAndTV" = "Movies and TV";
+"SportsAndGames" = "Sports and games";
+"MusicAndAudio" = "Music and audio";
+"ReadingAndWriting" = "Reading and writing";
+"VisualArt" = "Visual art";
+"Nature" = "Nature";
+"ScienceAndTechnology" = "Science and technology";
+"Tools" = "Tools";
+"People" = "People";
+"Home" = "Home";
+"Time" = "Time";
+"Miscellaneous" = "Miscellaneous";
+
+"EmailSubject" = "Support %@. Version: %@ - %@";
+"DeleteAll" = "Delete all library";
+"ReduceHaptic" = "Reduce vibrations";
+"SelectIcon" = "Select app icon";
+"Info" = "Info";
+"TipJar" = "Leave a tip";
+"LeaveReview" = "Leave a review";
+"SendEmail" = "Send an email";
+"Next" = "Next";
+"Previous" = "Previous";
+"Start" = "Start";
+
+"StandardLayout" = "Standard";
+"CompactLayout" = "Compact";
+"LittleCoverLayout" = "Cover (small)";
+"LittleCoverInfoLayout" = "Cover with info (small)";
+"BigCoverLayout" = "Cover (big)";
+"BigCoverInfoLayout" = "Cover with info (big)";
+
+"OnboardingTitle" = "Movie Tracker";
+"OnboardingText1" = "Movie Tracker is the ideal application to easily search and organize the Movies and TV Shows you want to watch.";
+"OnboardingText2" = "Has a friend recommended a Movie or TV Show for you to watch? Quickly save it to your Backlog.";
+"OnboardingText3" = "Organize what to see using Spaces. For example, you can create a Space with TV Shows to watch with friends and another with the Films to watch at Christmas.";
+"OnboardingText4" = "Not sure which service to stream, rent or buy a Movie or TV Series on? Check it out easily with Movie Tracker.";
+"OnboardingText5" = "By enabling iCloud and iCloud Drive, your library automatically syncs with all your devices.";
+
+"OnboardingTitle1" = "Organize Movies and TV Shows to watch";
+"OnboardingTitle2" = "Add things to watch to the Backlog";
+"OnboardingTitle3" = "Organize watches in Spaces";
+"OnboardingTitle4" = "See where to watch a Movie or TV Show";
+"OnboardingTitle5" = "Sync via iCloud";
+
+"PremiumTitle" = "Movie Tracker Pro";
+"PremiumSubtitle" = "Unlock all features";
+
+"SendEmailTitle" = "Which app do you want to use to send the email?";
+"Mail" = "Mail";
+"Gmail" = "Gmail";
+"Spark" = "Spark";
+"Default" = "Default";
+"CannotShowEmailComposerTitle" = "Cannot send email";
+"CannotShowEmailComposerMessage" = "In order to send the email, you have to configure an email app on your device";
+
+"DeleteAllTitle" = "Are you sure?";
+"DeleteAllMessage" = "This action is irreversible and all your library will be deleted";
+"DeleteAllAction" = "Delete all";
+
+"InAppRestore" = "Restore purchase";
+"Continue" = "Continue";
+"OneTime" = "one-time";
+"TryForFree" = "Try for free";
+"ErrorOccurred" = "A problem has occurred. Try later";
+"CannotMakePurchase" = "Your device is not enabled for purchase";
+"ThanksgivingTitle" = "Purchase completed";
+"ThanksgivingMessage" = "Thanks for your support ❤️";
+"NoPurchaseToRestore" = "There are no in-app purchases to restore with your account";
+
+"InAppDescription" = "Hello 👋 Movie Tracker was created by Simone 👨🏻‍💻 with the help of Carmen 👩🏻‍🎨! By becoming a Movie Tracker Pro user with a single in-app purchase you can help us work on the app and receive new features!";
+"InAppFeature1" = "Track an unlimited number of Movies and TV Shows";
+"InAppFeature2" = "Create an unlimited number of Spaces";
+"InAppFeature3" = "Change the app icon";
+"InAppFeature4" = "Support an indie developer";
+"InAppFooter" = "Movie Tracker respects your privacy and does not collect any data about you. All features are performed on your device and the data is synced through your iCloud account.";
+
+"TipJarDescription" = "Hello 👋 Movie Tracker was created by Simone 👨🏻‍💻 with the help of Carmen 👩🏻‍🎨! By becoming a Movie Tracker Supporter user you can help us work on the app and receive new features!";
+
+"AppInfoDescription" = "Movie Tracker is the perfect app to easily keep track of the Movies and TV Shows you want to watch. You can manage your personal collection and list of things to see. Search Movies and TV Shows by title and organize everything using the Spaces or enter the elements you are looking for in the \"Backlog\", the list used to group the Movies and TV Shows recommended by a friend that you want to save on the fly. You can always organize your items later thanks to the Spaces.\n\nThe app is available for iPhone, iPad and Mac and if you have enabled iCloud and iCloud Drive on your devices, the library is automatically synchronized between them.\n\nFor any doubts or request, you can send an email using the appropriate button on the \"Settings\" page.\n\nAll information relating to Movies and TV Shows and the search function are made available by TMDB. The list of providers from which you can stream, buy or rent content is made available by JustWatch. This product uses the TMDB API but is not approved or certified by TMDB";
+
+"Reddit" = "Movie Tracker Community";
+"Website" = "Website";
+"Twitter" = "Twitter";
+"Facebook" = "Facebook";
+
+"DefaultIcon" = "Default";
+"MacStyleIcon" = "Mac";
+"BlackIcon" = "Black";
+"RedIcon" = "Red";
+"WhiteIcon" = "White";
+
+"AllSeasons" = "All seasons";
+"MarkAsWatched" = "Mark as watched";
+"MarkAsWatched..." = "Mark as watched...";
+"MarkAsWatchedToday" = "Mark as watched today";
+"MarkAsRewatched" = "Mark as rewatched";
+"MarkAsRewatched..." = "Mark as rewatched...";
+"MarkAsRewatchedToday" = "Mark as rewatched today";
+"MarkAsWatchedAllTvShowMessage" = "Do you want to mark all the seasons of the TV Show as watched?";
+
+"ItemNotWatchedMessage" = "You haven't watched %@ yet";
+"ShowAllActivities" = "Show all activities";
+"Activities" = "Activities";
+"ShowWatched" = "Show watched";
+"HideWatched" = "Hide watched";
+
+"Rumored" = "Rumored";
+"Planned" = "Planned";
+"In Production" = "In Production";
+"Post Production" = "Post Production";
+"Released" = "Released";
+"Canceled" = "Canceled";
+"Pilot" = "Pilot";
+"Ended" = "Ended";
+"Returning Series" = "Returning Series";
+
+"Watched" = "Watched";
+"SearchCountry" = "Search country";
+"WhereToWatchCountry" = "Where to watch country";
+
+"Statistics" = "Statistics";
+"WatchedMovies" = "Watched movies";
+"Movies" = "Movies";
+"WatchedTvShowSeasons" = "Watched seasons";
+"TvShowSeasons" = "Seasons";
+"WatchedTvShows" = "Watched tv shows";
+"TvShows" = "TV Shows";
+"Day" = "Day";
+"Month" = "Month";
+"ThisWeek" = "This week";
+"LastWeek" = "Last week";
+"ThisMonth" = "This month";
+"LastMonth" = "Last month";
+"ThisYear" = "This year";
+"LastYear" = "Last year";
+"WatchStreak" = "Watch streak";
+"WatchedMoviesAverageDaily" = "The average number of movies watched per day is %.1f.";
+"WatchedTvShowSeasonsAverageDaily" = "The average number of seasons watched per day is %.1f.";
+"WatchedMoviesAverageMonthly" = "The average number of movies watched per month is %.1f.";
+"WatchedTvShowSeasonsAverageMonthly" = "The average number of seasons watched per month is %.1f.";
+"MostWatchedActors" = "Most watched actors";
+"MostWatchedGenres" = "Most watched categories";
+
+"Notes" = "Notes";
+"AddNote" = "Add note";
+"EditNote" = "Edit note";
+
+"UserRating" = "User rating";
+"ExternalRating" = "Rating";
