@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  MovieTrackerApp
+
+  Created by Simone Montalto on 02/11/22.
+  
+*/
+
+"SearchMoviesOnline" = "Cerca Film Online";
+"SearchTvshowsOnline" = "Cerca Serie TV Online";
+
+"SpacesWidgetTitle" = "Spazio";
+"SpacesWidgetDescription" = "Accedi rapidamente a uno dei tuoi Spazi";
+"SelectSpaceToShow" = "Seleziona uno Spazio da mostrare";
+"NoMoviesOrTvShows" = "Nessun Film o Serie TV";
+
+"Backlog" = "Raccolta";
+"BacklogWidgetTitle" = "Raccolta";
+"BacklogWidgetDescription" = "Accedi rapidamente alla tua Raccolta";
+
+"There are %@ and %@" = "Ci sono %@ e %@";
+"+%@ more" = "+%@ in più";
+
+"SearchMoviesOnlineTitle" = "Cerca online";
+"SearchMoviesOnlineDescription" = "Cerca un nuovo Film";
+
+"SearchTvShowsOnlineTitle" = "Cerca online";
+"SearchTvShowsOnlineDescription" = "Cerca una nuova Serie TV";
