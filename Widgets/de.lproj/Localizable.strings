@@ -6,23 +6,23 @@
   
 */
 
-"SearchMoviesOnline" = "Search for Movies Online";
-"SearchTvshowsOnline" = "Search for TV Shows Online";
+"SearchMoviesOnline" = "Suche online nach Filmen";
+"SearchTvshowsOnline" = "Suche online nach TV-Sendungen";
 
 "SpacesWidgetTitle" = "Space";
-"SpacesWidgetDescription" = "Quickly access one of your Spaces";
-"SelectSpaceToShow" = "Select a Space to show";
-"NoMoviesOrTvShows" = "No Movies or TV Shows";
+"SpacesWidgetDescription" = "Schnellzugriff auf deine Spaces";
+"SelectSpaceToShow" = "Wähle einen Space zum Anzeigen aus";
+"NoMoviesOrTvShows" = "Keine Filme oder TV-Sendungen";
 
 "Backlog" = "Backlog";
 "BacklogWidgetTitle" = "Backlog";
-"BacklogWidgetDescription" = "Quickly access your Backlog";
+"BacklogWidgetDescription" = "Schnellzugriff auf dein Backlog";
 
-"There are %@ and %@" = "There are %@ and %@";
-"+%@ more" = "+%@ more";
+"There are %@ and %@" = "Es gibt %@ und %@";
+"+%@ more" = "+%@ mehr";
 
-"SearchMoviesOnlineTitle" = "Search online";
-"SearchMoviesOnlineDescription" = "Search for a new Movie";
+"SearchMoviesOnlineTitle" = "Online suchen";
+"SearchMoviesOnlineDescription" = "Suche nach einem neuen Film";
 
-"SearchTvShowsOnlineTitle" = "Search online";
-"SearchTvShowsOnlineDescription" = "Search for a new TV Show";
+"SearchTvShowsOnlineTitle" = "Online suchen";
+"SearchTvShowsOnlineDescription" = "Siche nach einer neuen TV-Sendung";
