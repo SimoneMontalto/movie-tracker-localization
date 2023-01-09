@@ -1,20 +1,20 @@
 "1cVK44" = "Name";
 
-"6iY868" = "Just to confirm, you wanted ‘${space}’?";
+"6iY868" = "Nur um sicher zu gehen, du wolltest ‘${space}’?";
 
-"LTbBLR" = "You have selected ${space.name}";
+"LTbBLR" = "Du hast ${space.name} ausgewählt";
 
-"N5TK91" = "You have selected ${space.name}";
+"N5TK91" = "Du hast ${space.name} ausgewählt";
 
-"XRncgE" = "There are ${count} options matching ‘${space}’.";
+"XRncgE" = "Es gibt ${count} Optionen die mit ‘${space}’ übereinstimmen.";
 
 "cgKryV" = "Space";
 
-"gpCwrM" = "Select Space";
+"gpCwrM" = "Space auswählen";
 
 "jltOOz" = "Space";
 
 "ohcZGY" = "Space";
 
-"tVvJ9c" = "Select Space";
+"tVvJ9c" = "Space auswählen";
 
