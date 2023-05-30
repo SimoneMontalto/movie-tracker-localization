@@ -164,3 +164,14 @@
 "WatchStatus" = "Watch status";
 "Watching" = "Watching";
 "NotWatched" = "Not watched";
+
+"TvShowSeasonEpisode" = "TV Show Episode";
+"EpisodeNumber" = "Episode number";
+"Episodes" = "Episodes";
+
+"Mark tv show season of ${tvShow} as watched ${date}" = "Mark tv show season of ${tvShow} as watched ${date}";
+
+"TvShowSeasonEpisodeQuestion" = "What's the TV Show Season Episode?";
+"MarkTvShowSeasonEpisodeAsWatched" = "Mark TV Show Season Episode as Watched";
+"MarkTvShowSeasonEpisodeAsWatchedDescription" = "Mark the tv show season episode as watched in the selected date";
+"Mark tv show season episode of ${tvShow} as watched ${date}" = "Mark tv show season episode of ${tvShow} as watched ${date}";

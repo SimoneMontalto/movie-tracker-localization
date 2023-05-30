@@ -25,6 +25,7 @@
 "Edit" = "Edit";
 "Delete" = "Delete";
 "Cancel" = "Cancel";
+"Retry" = "Retry";
 "Search" = "Search";
 "SearchPlaceholder" = "Search online by title";
 "OthersSelectedActor" = "Others of the selected actor";
@@ -32,6 +33,9 @@
 "WatchedPlaceholder" = "In this section you will see the items that you have Watched";
 "SpacePlaceholder" = "In this section you will see the elements added to the selected Space";
 "TagPlaceholder" = "In this section you will see the elements added to the selected Tag";
+"ActorPlaceholder" = "In this section you will see the elements of the selected Actor";
+"DirectorPlaceholder" = "In this section you will see the elements of the selected Director";
+"CategoryPlaceholder" = "In this section you will see the elements added to the selected Category";
 "SpacesPlaceholder" = "In this section you will see the list of your Spaces";
 "NoSimilarMoviesPlaceholder" = "No similar Movies";
 "NoSimilarTvShowsPlaceholder" = "No similar TV Shows";
@@ -73,6 +77,8 @@
 "Producers" = "Producers";
 "Seasons" = "Seasons";
 "Actors" = "Actors";
+"Directors" = "Directors";
+"Categories" = "Categories";
 "Language" = "Language";
 "Year" = "Year";
 "Duration" = "Runtime";
@@ -222,6 +228,7 @@
 "MarkAsRewatched..." = "Mark as rewatched...";
 "MarkAsRewatchedToday" = "Mark as rewatched today";
 "MarkAsWatchedAllTvShowMessage" = "Do you want to mark all the seasons of the TV Show as watched?";
+"MarkAsWatchedAllTvShowEpisodesMessage" = "Do you want to mark all the episode of the TV Show season as watched?";
 
 "ItemNotWatchedMessage" = "You haven't watched %@ yet";
 "ShowAllActivities" = "Show all activities";
@@ -274,3 +281,13 @@
 "ExternalRating" = "Rating";
 
 "Contributors" = "Contributors";
+
+"DeleteActivitiesInfoMessage" = "You are about to eliminate all activities. The action is not reversible. Do you want to proceed?";
+"AllEpisodes" = "All episodes";
+"Episodes" = "Episodes";
+"WatchedTvShowSeasonEpisodes" = "Watched tv show episodes";
+"WatchedTvShowSeasonEpisodesAverageDaily" = "The average number of TV show episodes watched per day is %.1f.";
+"WatchedTvShowSeasonEpisodesAverageMonthly" = "The average number of TV show episodes watched per month is %.1f.";
+
+"ItemsMigratingTitle" = "Setting Up...";
+"ItemsMigratingSubtitle" = "Some updates are needed before we can proceed. It should not take long.";

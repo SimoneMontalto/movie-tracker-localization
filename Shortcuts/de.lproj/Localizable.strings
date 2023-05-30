@@ -164,3 +164,14 @@
 "WatchStatus" = "Status";
 "Watching" = "Am Schauen";
 "NotWatched" = "Nicht gesehen";
+
+"TvShowSeasonEpisode" = "Fernsehsendung Episode";
+"EpisodeNumber" = "Episodennummer";
+"Episodes" = "Episoden";
+
+"Mark tv show season of ${tvShow} as watched ${date}" = "Markiere die Staffel von ${tvShow} als gesehen ${date}";
+
+"TvShowSeasonEpisodeQuestion" = "Wie lautet die TV Show Season Episode?";
+"MarkTvShowSeasonEpisodeAsWatched" = "Markiere die Episode der Fernsehsendung als gesehen";
+"MarkTvShowSeasonEpisodeAsWatchedDescription" = "Markiere die TV-Show Staffel Episode als gesehen im ausgewählten Datum";
+"Mark tv show season episode of ${tvShow} as watched ${date}" = "Markieren Sie eine Episode der Fernsehserie ${tvShow} als gesehen ${date}";

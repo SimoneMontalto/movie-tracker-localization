@@ -25,6 +25,7 @@
 "Edit" = "Modifica";
 "Delete" = "Elimina";
 "Cancel" = "Annulla";
+"Retry" = "Riprova";
 "Search" = "Cerca";
 "SearchPlaceholder" = "Cerca online per titolo";
 "OthersSelectedActor" = "Altri dell'attore selezionato";
@@ -32,6 +33,9 @@
 "WatchedPlaceholder" = "In questa sezione verranno elencati gli elementi che hai visto";
 "SpacePlaceholder" = "In questa sezione vedrai gli elementi aggiunti allo Spazio selezionato";
 "TagPlaceholder" = "In questa sezione vedrai gli elementi aggiunti al Tag selezionato";
+"ActorPlaceholder" = "In questa sezione vedrai gli elementi dell'attore selezionato";
+"DirectorPlaceholder" = "In questa sezione vedrai gli elementi del regista selezionato";
+"CategoryPlaceholder" = "In questa sezione vedrai gli elementi aggiunti alla Categoria selezionata";
 "SpacesPlaceholder" = "In questa sezione vedrai la lista dei tuoi Spazi";
 "NoSimilarMoviesPlaceholder" = "Nessun Film simile";
 "NoSimilarTvShowsPlaceholder" = "Nessuna Serie TV simile";
@@ -73,6 +77,8 @@
 "Producers" = "Produttori";
 "Seasons" = "Stagioni";
 "Actors" = "Attori";
+"Directors" = "Registi";
+"Categories" = "Generi";
 "Language" = "Lingua";
 "Year" = "Anno";
 "Duration" = "Durata";
@@ -222,6 +228,7 @@
 "MarkAsRewatched..." = "Segna come rivisto...";
 "MarkAsRewatchedToday" = "Segna come rivisto oggi";
 "MarkAsWatchedAllTvShowMessage" = "Vuoi segnare come viste tutte le stagioni di questa Serie TV?";
+"MarkAsWatchedAllTvShowEpisodesMessage" = "Vuoi segnare come viste tutte le puntate di questa stagione della Serie TV?";
 
 "ItemNotWatchedMessage" = "Non hai ancora visto %@";
 "ShowAllActivities" = "Mostra tutte le attività";
@@ -274,3 +281,13 @@
 "ExternalRating" = "Voto";
 
 "Contributors" = "Collaboratori";
+
+"DeleteActivitiesInfoMessage" = "Stai per eliminare tutte le attività. L'azione non è reversibile. Vuoi procedere?";
+"AllEpisodes" = "Tutte le puntate";
+"Episodes" = "Puntate";
+"WatchedTvShowSeasonEpisodes" = "Puntate serie tv viste";
+"WatchedTvShowSeasonEpisodesAverageDaily" = "Il numero medio di puntate di serie TV viste al giorno è %.1f.";
+"WatchedTvShowSeasonEpisodesAverageMonthly" = "Il numero medio di puntate di serie TV viste al mese è %.1f.";
+
+"ItemsMigratingTitle" = "Aggiornamento...";
+"ItemsMigratingSubtitle" = "Sono necessari alcuni aggiornamenti prima di procedere. Non dovrebbe richiedere molto tempo.";

@@ -148,7 +148,7 @@
 "MarkMovieAsWatchedDescription" = "Segna il film come visto nella data selezionata";
 "Mark ${movie} as watched ${date}" = "Segna ${movie} come visto ${date}";
 
-"MarkTvShowAsWatchedAsWatched" = "Segna Serie TV come Vista";
+"MarkTvShowAsWatched" = "Segna Serie TV come Vista";
 "MarkTvShowAsWatchedAsWatchedDescription" = "Segna la serie tv come vista nella data selezionata";
 "Mark ${tvShow} as watched ${date}" = "Segna ${tvShow} come vista ${date}";
 
@@ -164,3 +164,14 @@
 "WatchStatus" = "Stato di visione";
 "Watching" = "In corso";
 "NotWatched" = "Non visto";
+
+"TvShowSeasonEpisode" = "Puntata Serie TV";
+"EpisodeNumber" = "Numero puntata";
+"Episodes" = "Puntate";
+
+"Mark tv show season of ${tvShow} as watched ${date}" = "Segna stagione di ${tvShow} come vista ${date}";
+
+"TvShowSeasonEpisodeQuestion" = "Qual è la Puntata della Serie TV?";
+"MarkTvShowSeasonEpisodeAsWatched" = "Segna Puntata Serie TV come Vista";
+"MarkTvShowSeasonEpisodeAsWatchedDescription" = "Segna la puntata della serie tv come vista nella data selezionata";
+"Mark tv show season episode of ${tvShow} as watched ${date}" = "Segna puntata di ${tvShow} come vista ${date}";

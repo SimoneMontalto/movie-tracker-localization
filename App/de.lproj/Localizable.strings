@@ -2,7 +2,7 @@
   Localizable.strings
   
 
-  Created by Simone Montalto on 02/09/22.
+  Created by Simone Montalto on 06/01/23.
   
 */
 
@@ -25,6 +25,7 @@
 "Edit" = "Bearbeiten";
 "Delete" = "Löschen";
 "Cancel" = "Abbrechen";
+"Retry" = "Wiederholung";
 "Search" = "Suchen";
 "SearchPlaceholder" = "Suche online nach Titel";
 "OthersSelectedActor" = "Andere vom ausgewählten Autor";
@@ -32,6 +33,9 @@
 "WatchedPlaceholder" = "In diesem Abschnitt siehst du die Einträge, die du angesehen hast";
 "SpacePlaceholder" = "In diesem Abschnitt siehst du die Einträge, die du zum ausgewählten Space hinzugefügt hast";
 "TagPlaceholder" = "In diesem Abschnitt siehst du die Einträge, die du zum ausgewählten Tag hinzugefügt hast";
+"ActorPlaceholder" = "In diesem Abschnitt sehen Sie die Elemente des ausgewählten Actors";
+"DirectorPlaceholder" = "In diesem Abschnitt sehen Sie die Elemente des ausgewählten Regisseurs";
+"CategoryPlaceholder" = "In diesem Abschnitt sehen Sie die Elemente, die der ausgewählten Kategorie hinzugefügt wurden";
 "SpacesPlaceholder" = "In diesem Abschnitt siehst du die Liste deiner Spaces";
 "NoSimilarMoviesPlaceholder" = "Keine ähnlichen Filme";
 "NoSimilarTvShowsPlaceholder" = "Keine ähnlichen TV-Sendungen";
@@ -73,6 +77,8 @@
 "Producers" = "Produzent";
 "Seasons" = "Staffeln";
 "Actors" = "Schauspieler";
+"Directors" = "Regisseure";
+"Categories" = "Kategorien";
 "Language" = "Sprache";
 "Year" = "Jahr";
 "Duration" = "Dauer";
@@ -222,6 +228,7 @@
 "MarkAsRewatched..." = "Als erneut gesehen markieren ...";
 "MarkAsRewatchedToday" = "Als heute erneut gesehen markieren";
 "MarkAsWatchedAllTvShowMessage" = "Möchtest du alle Staffeln dieser TV-Sendung als gesehen markieren?";
+"MarkAsWatchedAllTvShowEpisodesMessage" = "Möchten Sie alle Episoden der TV-Show-Staffel als gesehen markieren?";
 
 "ItemNotWatchedMessage" = "Du hast %@ noch nicht gesehen";
 "ShowAllActivities" = "Zeige alle Aktivitäten";
@@ -274,3 +281,13 @@
 "ExternalRating" = "Bewertung";
 
 "Contributors" = "MitwirkendeGerman";
+
+"DeleteActivitiesInfoMessage" = "Sie sind dabei, alle Aktivitäten zu löschen. Die Aktion ist nicht rückgängig zu machen. Möchten Sie fortfahren?";
+"AllEpisodes" = "Alle Episoden";
+"Episodes" = "Episoden";
+"WatchedTvShowSeasonEpisodes" = "Gesehene TV-Sendungen-Folgen";
+"WatchedTvShowSeasonEpisodesAverageDaily" = "Die durchschnittliche Anzahl der täglich gesehenen Fernsehsendungen beträgt %.1f.";
+"WatchedTvShowSeasonEpisodesAverageMonthly" = "Die durchschnittliche Anzahl der pro Monat gesehenen Fernsehsendungen beträgt %.1f.";
+
+"ItemsMigratingTitle" = "Aktualisierung...";
+"ItemsMigratingSubtitle" = "Einige Aktualisierungen sind erforderlich, bevor Sie fortfahren können. Es sollte nicht viel Zeit in Anspruch nehmen.";
