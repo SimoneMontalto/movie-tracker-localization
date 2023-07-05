@@ -6,23 +6,23 @@
   
 */
 
-"SearchMoviesOnline" = "Search for Movies Online";
-"SearchTvshowsOnline" = "Search for TV Shows Online";
+"SearchMoviesOnline" = "Caută filme online";
+"SearchTvshowsOnline" = "Caută seriale TV online";
 
-"SpacesWidgetTitle" = "Space";
-"SpacesWidgetDescription" = "Quickly access one of your Spaces";
-"SelectSpaceToShow" = "Select a Space to show";
-"NoMoviesOrTvShows" = "No Movies or TV Shows";
+"SpacesWidgetTitle" = "Spațiu";
+"SpacesWidgetDescription" = "Accesează rapid unul dintre spațiile tale";
+"SelectSpaceToShow" = "Selectează un spațiu de afișat";
+"NoMoviesOrTvShows" = "Niciun film sau serial TV";
 
 "Backlog" = "Backlog";
 "BacklogWidgetTitle" = "Backlog";
-"BacklogWidgetDescription" = "Quickly access your Backlog";
+"BacklogWidgetDescription" = "Accesează rapid backlog-ul tău";
 
-"There are %@ and %@" = "There are %@ and %@";
-"+%@ more" = "+%@ more";
+"There are %@ and %@" = "Există %@ și %@";
+"+%@ more" = "+%@ mai multe";
 
-"SearchMoviesOnlineTitle" = "Search online";
-"SearchMoviesOnlineDescription" = "Search for a new Movie";
+"SearchMoviesOnlineTitle" = "Caută online";
+"SearchMoviesOnlineDescription" = "Caută un film nou";
 
-"SearchTvShowsOnlineTitle" = "Search online";
-"SearchTvShowsOnlineDescription" = "Search for a new TV Show";
+"SearchTvShowsOnlineTitle" = "Caută online";
+"SearchTvShowsOnlineDescription" = "Caută un serial TV nou";

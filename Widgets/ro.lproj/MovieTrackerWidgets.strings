@@ -1,20 +1,19 @@
-"1cVK44" = "Name";
+"1cVK44" = "Nume";
 
-"6iY868" = "Just to confirm, you wanted ‘${space}’?";
+"6iY868" = "Doar pentru a confirma, ai dorit '${space}'?";
 
-"LTbBLR" = "You have selected ${space.name}";
+"LTbBLR" = "Ai selectat ${space.name}";
 
-"N5TK91" = "You have selected ${space.name}";
+"N5TK91" = "Ai selectat ${space.name}";
 
-"XRncgE" = "There are ${count} options matching ‘${space}’.";
+"XRncgE" = "Există ${count} opțiuni care se potrivesc cu '${space}'.";
 
-"cgKryV" = "Space";
+"cgKryV" = "Spațiu";
 
-"gpCwrM" = "Select Space";
+"gpCwrM" = "Selectează Spațiu";
 
-"jltOOz" = "Space";
+"jltOOz" = "Spațiu";
 
-"ohcZGY" = "Space";
+"ohcZGY" = "Spațiu";
 
-"tVvJ9c" = "Select Space";
-
+"tVvJ9c" = "Selectează Spațiu";

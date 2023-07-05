@@ -6,172 +6,172 @@
   
 */
 
-"Edit" = "Edit";
-"Create" = "Create";
+"Edit" = "Editează";
+"Create" = "Crează";
 "Website" = "Website";
 "URL" = "URL";
-"Title" = "Title";
-"OriginalTitle" = "Original title";
-"Description" = "Description";
-"Language" = "Language";
-"Languages" = "Languages";
-"Country" = "Country";
-"OriginCountry" = "Origin country";
-"ReleaseDate" = "Release date";
-"Link" = "Link";
-"AverageRate" = "Average rate";
-"ProductionCompanies" = "Production companies";
-"ProductionCountries" = "Production countries";
-"Directors" = "Directors";
-"Categories" = "Categories";
-"Actors" = "Actors";
-"Spaces" = "Spaces";
-"Tags" = "Tags";
-"Source" = "Source";
-"ReleaseStatus" = "Release status";
+"Title" = "Titlu";
+"OriginalTitle" = "Titlu original";
+"Description" = "Descriere";
+"Language" = "Limbă";
+"Languages" = "Limbi";
+"Country" = "Țară";
+"OriginCountry" = "Țara de origine";
+"ReleaseDate" = "Data lansării";
+"Link" = "Legătură";
+"AverageRate" = "Rata medie";
+"ProductionCompanies" = "Companii de producție";
+"ProductionCountries" = "Țări de producție";
+"Directors" = "Regizori";
+"Categories" = "Categorii";
+"Actors" = "Actori";
+"Spaces" = "Spații";
+"Tags" = "Etichete";
+"Source" = "Sursă";
+"ReleaseStatus" = "Stare lansare";
 "Video" = "Video";
-"EpisodeCount" = "Episode count";
-"SeasonNumber" = "Season number";
-"AirDate" = "Air date";
-"NumberOfEpisodes" = "Number of episodes";
-"NumberOfSeasons" = "Number of seasons";
-"Videos" = "Videos";
-"Seasons" = "Seasons";
-"Watched" = "Watched";
-"Runtime" = "Runtime";
+"EpisodeCount" = "Numărul de episoade";
+"SeasonNumber" = "Numărul sezonului";
+"AirDate" = "Data difuzării";
+"NumberOfEpisodes" = "Număr de episoade";
+"NumberOfSeasons" = "Număr de sezoane";
+"Videos" = "Videoclipuri";
+"Seasons" = "Sezoane";
+"Watched" = "Văzut";
+"Runtime" = "Durată";
 
-"Name" = "Name";
-"NameQuestion" = "What's the name?";
-"Surname" = "Surname";
-"SurnameQuestion" = "What's the surname?";
+"Name" = "Nume";
+"NameQuestion" = "Care este numele?";
+"Surname" = "Prenume";
+"SurnameQuestion" = "Care este prenumele?";
 
-"Tag" = "Tag";
-"CreateTag" = "Create Tag";
-"CreateTagDescription" = "Create a new Tag";
-"Create ${name} tag" = "Create ${name} tag";
-"TagCreated" = "The Tag was created successfully";
+"Tag" = "Etichetă";
+"CreateTag" = "Crează etichetă";
+"CreateTagDescription" = "Crează o nouă etichetă";
+"Create ${name} tag" = "Crează eticheta ${name}";
+"TagCreated" = "Eticheta a fost creată cu succes";
 
-"Space" = "Space";
-"CreateSpace" = "Create Space";
-"CreateSpaceDescription" = "Create a new Space";
-"Create ${name} space" = "Create ${name} space";
-"SpaceCreated" = "The Space was created successfully";
+"Space" = "Spațiu";
+"CreateSpace" = "Crează spațiu";
+"CreateSpaceDescription" = "Crează un nou spațiu";
+"Create ${name} space" = "Crează spațiul ${name}";
+"SpaceCreated" = "Spațiul a fost creat cu succes";
 
 "Backlog" = "Backlog";
-"Category" = "Category";
+"Category" = "Categorie";
 "Creator" = "Creator";
-"Creators" = "Creators";
-"RemoteSource" = "Remote source";
+"Creators" = "Creatori";
+"RemoteSource" = "Sursă la distanță";
 "tmdb" = "TMDB";
 
-"Movie" = "Movie";
-"MovieReleaseStatus" = "Movie release status";
+"Movie" = "Film";
+"MovieReleaseStatus" = "Stare lansare film";
 
-"TvShow" = "TV Show";
-"TvShowSeason" = "TV Show Season";
-"TvShowSeasonQuestion" = "What's the TV Show Season?";
-"TvShowReleaseStatus" = "TV Show release status";
+"TvShow" = "Serial TV";
+"TvShowSeason" = "Sezonul serialului TV";
+"TvShowSeasonQuestion" = "Care este sezonul serialului TV?";
+"TvShowReleaseStatus" = "Stare lansare serial TV";
 
-"Rumored" = "Rumored";
-"Planned" = "Planned";
-"In Production" = "In Production";
-"Post Production" = "Post Production";
-"Released" = "Released";
-"Canceled" = "Canceled";
+"Rumored" = "Zvonit";
+"Planned" = "Planificat";
+"In Production" = "În producție";
+"Post Production" = "Post-producție";
+"Released" = "Lansat";
+"Canceled" = "Anulat";
 "Pilot" = "Pilot";
-"Ended" = "Ended";
-"Returning Series" = "Returning Series";
+"Ended" = "Încheiat";
+"Returning Series" = "Serial în derulare";
 
-"Add" = "Add";
-"Move" = "Move";
-"Watch" = "Watch";
-"TagsQuestion" = "What are the tags?";
+"Add" = "Adaugă";
+"Move" = "Mută";
+"Watch" = "Urmărește";
+"TagsQuestion" = "Care sunt etichetele?";
 
-"Movies" = "Movies";
-"MoviesQuestion" = "What are the movies?";
-"AddTagsToMovies" = "Add Tags to Movies";
-"AddTagsToMoviesDescription" = "Assign one or more tags to the selected movies";
-"Assign ${tags} to ${movies}" = "Assign ${tags} to ${movies}";
-"MoviesUpdated" = "Movies updated";
+"Movies" = "Filme";
+"MoviesQuestion" = "Care sunt filmele?";
+"AddTagsToMovies" = "Adaugă etichete filmelor";
+"AddTagsToMoviesDescription" = "Atribuie una sau mai multe etichete filmelor selectate";
+"Assign ${tags} to ${movies}" = "Atribuie ${tags} filmelor ${movies}";
+"MoviesUpdated" = "Filmele au fost actualizate";
 
-"TvShows" = "TV Shows";
-"TvShowsQuestion" = "What are the tv shows?";
-"AddTagsToTvShows" = "Add Tags to TV Shows";
-"AddTagsToTvShowsDescription" = "Assign one or more tags to the selected tv shows";
-"Assign ${tags} to ${tvShows}" = "Assign ${tags} to ${tvShows}";
-"TvShowsUpdated" = "TV Shows updated";
+"TvShows" = "Seriale TV";
+"TvShowsQuestion" = "Care sunt serialele TV?";
+"AddTagsToTvShows" = "Adaugă etichete serialelor TV";
+"AddTagsToTvShowsDescription" = "Atribuie una sau mai multe etichete serialelor TV selectate";
+"Assign ${tags} to ${tvShows}" = "Atribuie ${tags} serialelor TV ${tvShows}";
+"TvShowsUpdated" = "Serialele TV au fost actualizate";
 
-"SpaceQuestion" = "What's the Space?";
-"MoveMoviesToSpace" = "Move Movies to Space";
-"MoveMoviesToSpaceDescription" = "Move the movies to the selected space";
-"Move ${movies} to ${space}" = "Move ${movies} to ${space}";
-"SpaceNotFoundError" = "The selected space was not found.";
-"MovieNotFoundError" = "The selected movie was not found.";
-"TvShowNotFoundError" = "The selected tv show was not found.";
-"CannotSearchWatchProvidersForSelectedItemError" = "Cannot search watch providers for the selected item.";
+"SpaceQuestion" = "Care este spațiul?";
+"MoveMoviesToSpace" = "Mută filmele în spațiu";
+"MoveMoviesToSpaceDescription" = "Mută filmele în spațiul selectat";
+"Move ${movies} to ${space}" = "Mută ${movies} în ${space}";
+"SpaceNotFoundError" = "Spațiul selectat nu a fost găsit.";
+"MovieNotFoundError" = "Filmul selectat nu a fost găsit.";
+"TvShowNotFoundError" = "Serialul TV selectat nu a fost găsit.";
+"CannotSearchWatchProvidersForSelectedItemError" = "Nu se pot căuta furnizorii pentru elementul selectat.";
 
-"MoveTvShowsToSpace" = "Move Tv Shows to Space";
-"MoveTvShowsToSpaceDescription" = "Move the tv shows to the selected space";
-"Move ${tvShows} to ${space}" = "Move ${tvShows} to ${space}";
+"MoveTvShowsToSpace" = "Mută serialele TV în spațiu";
+"MoveTvShowsToSpaceDescription" = "Mută serialele TV în spațiul selectat";
+"Move ${tvShows} to ${space}" = "Mută ${tvShows} în ${space}";
 
-"MoveMoviesToBacklog" = "Move Movies to Backlog";
-"MoveMoviesToBacklogDescription" = "Move the movies to the backlog";
-"Move ${movies} to the Backlog" = "Move ${movies} to the Backlog";
+"MoveMoviesToBacklog" = "Mută filmele în backlog";
+"MoveMoviesToBacklogDescription" = "Mută filmele în backlog";
+"Move ${movies} to the Backlog" = "Mută ${movies} în backlog";
 
-"MoveTvShowsToBacklog" = "Move TV Shows to Backlog";
-"MoveTvShowsToBacklogDescription" = "Move the tv shows to the backlog";
-"Move ${tvShows} to the Backlog" = "Move ${tvShows} to the Backlog";
+"MoveTvShowsToBacklog" = "Mută serialele TV în backlog";
+"MoveTvShowsToBacklogDescription" = "Mută serialele TV în backlog";
+"Move ${tvShows} to the Backlog" = "Mută ${tvShows} în backlog";
 
-"MovieQuestion" = "What's the movie?";
-"WatchProvidersForMovie" = "Watch Providers for Movie";
-"WatchProvidersForMovieDescription" = "Check on which platform you can see the selected movie";
-"Where can I watch ${movie} in ${country}?" = "Where can I see ${movie} in ${country}?";
+"MovieQuestion" = "Care este filmul?";
+"WatchProvidersForMovie" = "Furnizori pentru vizionarea filmului";
+"WatchProvidersForMovieDescription" = "Verificați pe ce platformă puteți viziona filmul selectat";
+"Where can I watch ${movie} in ${country}?" = "Unde pot viziona ${movie} în ${country}?";
 
-"TvShowQuestion" = "What's the tv show?";
-"WatchProvidersForTvShow" = "Watch Providers for TV Show";
-"WatchProvidersForTvShowDescription" = "Check on which platform you can see the selected tv show";
-"Where can I watch ${tvShow} in ${country}?" = "Where can I see ${tvShow} in ${country}?";
+"TvShowQuestion" = "Care este serialul TV?";
+"WatchProvidersForTvShow" = "Furnizori pentru vizionarea serialului TV";
+"WatchProvidersForTvShowDescription" = "Verificați pe ce platformă puteți viziona serialul TV selectat";
+"Where can I watch ${tvShow} in ${country}?" = "Unde pot viziona ${tvShow} în ${country}?";
 
-"Country" = "Country";
-"CountryQuestion" = "What's the country?";
-"NoProvidersForCountryMessage" = "No providers for the selected Country";
+"Country" = "Țară";
+"CountryQuestion" = "Care este țara?";
+"NoProvidersForCountryMessage" = "Nu există furnizori pentru țara selectată";
 "Streaming" = "Streaming";
-"Buy" = "Buy";
-"Rent" = "Rent";
+"Buy" = "Cumpără";
+"Rent" = "Închiriază";
 
-"Activity" = "Activity";
-"Date" = "Date";
-"DateQuestion" = "What's the date?";
+"Activity" = "Activitate";
+"Date" = "Dată";
+"DateQuestion" = "Care este data?";
 
-"MarkedAsWatched" = "Marked as watched";
-"MarkMovieAsWatched" = "Mark Movie as Watched";
-"MarkMovieAsWatchedDescription" = "Mark the movie as watched in the selected date";
-"Mark ${movie} as watched ${date}" = "Mark ${movie} as watched ${date}";
+"MarkedAsWatched" = "Marcate ca vizionate";
+"MarkMovieAsWatched" = "Marchează filmul ca vizionat";
+"MarkMovieAsWatchedDescription" = "Marchează filmul ca vizionat la data selectată";
+"Mark ${movie} as watched ${date}" = "Marchează ${movie} ca vizionat la data ${date}";
 
-"MarkTvShowAsWatched" = "Mark TV Show as Watched";
-"MarkTvShowAsWatchedDescription" = "Mark the tv show as watched in the selected date";
-"Mark ${tvShow} as watched ${date}" = "Mark ${tvShow} as watched ${date}";
+"MarkTvShowAsWatched" = "Marchează serialul TV ca vizionat";
+"MarkTvShowAsWatchedDescription" = "Marchează serialul TV ca vizionat la data selectată";
+"Mark ${tvShow} as watched ${date}" = "Marchează ${tvShow} ca vizionat la data ${date}";
 
-"MarkTvShowSeasonAsWatched" = "Mark TV Show Season as Watched";
-"MarkTvShowSeasonAsWatchedDescription" = "Mark the tv show season as watched in the selected date";
-"Mark ${tvShowSeason} as watched ${date}" = "Mark ${tvShowSeason} as watched ${date}";
+"MarkTvShowSeasonAsWatched" = "Marchează sezonul serialului TV ca vizionat";
+"MarkTvShowSeasonAsWatchedDescription" = "Marchează sezonul serialului TV ca vizionat la data selectată";
+"Mark ${tvShowSeason} as watched ${date}" = "Marchează ${tvShowSeason} ca vizionat la data ${date}";
 
-"Note" = "Note";
-"Notes" = "Notes";
-"Rating" = "Rating";
-"Ratings" = "Ratings";
+"Note" = "Notă";
+"Notes" = "Note";
+"Rating" = "Evaluare";
+"Ratings" = "Evaluări";
 
-"WatchStatus" = "Watch status";
-"Watching" = "Watching";
-"NotWatched" = "Not watched";
+"WatchStatus" = "Stare vizionare";
+"Watching" = "Se vizionează";
+"NotWatched" = "Nevizionat";
 
-"TvShowSeasonEpisode" = "TV Show Episode";
-"EpisodeNumber" = "Episode number";
-"Episodes" = "Episodes";
+"TvShowSeasonEpisode" = "Episodul serialului TV";
+"EpisodeNumber" = "Număr episod";
+"Episodes" = "Episoade";
 
-"Mark tv show season of ${tvShow} as watched ${date}" = "Mark tv show season of ${tvShow} as watched ${date}";
+"Mark tv show season of ${tvShow} as watched ${date}" = "Marchează sezonul serialului TV ${tvShow} ca vizionat la data ${date}";
 
-"TvShowSeasonEpisodeQuestion" = "What's the TV Show Season Episode?";
-"MarkTvShowSeasonEpisodeAsWatched" = "Mark TV Show Season Episode as Watched";
-"MarkTvShowSeasonEpisodeAsWatchedDescription" = "Mark the tv show season episode as watched in the selected date";
-"Mark tv show season episode of ${tvShow} as watched ${date}" = "Mark tv show season episode of ${tvShow} as watched ${date}";
+"TvShowSeasonEpisodeQuestion" = "Care este episodul sezonului serialului TV?";
+"MarkTvShowSeasonEpisodeAsWatched" = "Marchează episodul sezonului serialului TV ca vizionat";
+"MarkTvShowSeasonEpisodeAsWatchedDescription" = "Marchează episodul sezonului serialului TV ca vizionat la data selectată";
+"Mark tv show season episode of ${tvShow} as watched ${date}" = "Marchează episodul sezonului serialului TV ${tvShow} ca vizionat la data ${date}";

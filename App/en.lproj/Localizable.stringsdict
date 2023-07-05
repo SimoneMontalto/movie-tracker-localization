@@ -13,11 +13,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>1 Film</string>
-			<key>few</key>
-			<string>%d Filme</string>
+			<string>1 Movie</string>
 			<key>other</key>
-			<string>%d de Filme</string>
+			<string>%d Movies</string>
 		</dict>
 	</dict>
 	<key>NumberOfTvShows</key>
@@ -31,11 +29,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>1 Serial TV</string>
-			<key>few</key>
-			<string>%d Seriale TV</string>
+			<string>1 TV Show</string>
 			<key>other</key>
-			<string>%d de Seriale TV</string>
+			<string>%d TV Shows</string>
 		</dict>
 	</dict>
 </dict>
