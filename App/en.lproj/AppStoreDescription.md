@@ -1,23 +1,23 @@
 Title: Movie Tracker: Watchlist track
-Subtitle: Lista de vizionare pentru Filme și Emisiuni TV
+Subtitle: Watch list Film and TV Show
 
-Movie Tracker este aplicația perfectă pentru iPhone, iPad și Mac pentru a ține evidența cu ușurință a Filmelor și Emisiunilor TV pe care doriți să le vedeți.
+Movie Tracker is the perfect app for iPhone, iPad and Mac to easily keep track of the Movies and TV Shows you want to watch.
 
-Persoanele care petrec mult timp vizionând Filme și Emisiuni TV știu cât de greu este să ții evidența tuturor filmelor pe care vor să le vadă. În aceste scenarii, Movie Tracker devine actorul principal, ajutându-i să urmărească și să organizeze toate Filmele și Emisiunile TV în liste de vizionare personalizate.
-Lista principală este Backlog-ul, un loc unde puteți salva rapid elemente pe care cineva vi le recomandă, de exemplu. În plus, puteți crea diferite Spații, liste unde să mutați elemente salvate anterior în Backlog sau pe care le-ați căutat. Movie Tracker nu doar afișează multe informații, trailere și coperte superbe pentru toate Filmele și Emisiunile TV, dar vă permite și să aflați unde le puteți urmarii, închiria sau cumpăra.
+People who spend a lot of time by seeing Movies and TV Shows know how much is difficult to keep track of all the movies they want to see. In this scenarios Movie Tracker will become the first actor by helping them to track and organize all the Movies and TV Shows in customized watchlists. 
+The main list is the Backlog, a place where quickly save items which someone recommends you, for example. Furthermore, you can create different Spaces, lists where to move items  previously saved in the Backlog or just searched. Not only Movie Tracker displays a lot of informations, trailers and gorgeous cover art for all the Movies and TV Shows, but also allows you to find out where to stream, rent or buy them.
 
-Movie Tracker este o aplicație gratuită și este limitată la 5 filme / emisiuni TV și 1 spațiu. O singură achiziție în aplicație deblochează suportul pentru un număr nelimitat de elemente și spații pe iPhone, iPad și Mac.
+Movie Tracker is a free app and is limited to 5 movies / tv shows and 1 space. A single in-app purchase unlocks support for unlimited items and spaces across iPhone, iPad and Mac.
 
-Utilizatorii Movie Tracker se pot aștepta la:
+Movie Tracker users can look forward to:
 
-- O listă sincronizată de Filme și Emisiuni TV — indiferent dacă salvați un film sau un show TV pe iPhone, iPad sau Mac, acesta va fi sincronizat pe toate dispozitivele. Atât Backlog-ul dvs., cât și Spațiile vor fi sincronizate în mod perfect și automat, astfel încât să nu pierdeți niciodată o sugestie de film sau show TV!
+- A synchronized list of Movies and TV Shows — whether you save a movie or tv show on your iPhone, iPad, or Mac, it'll be synced across all devices. Both your Backlog and Spaces will be synced seamlessly and automatically so you'll never lose a movie or tv show suggestion again!
 
- - Organizare ușoară și cuprinzătoare — Când un prieten vă recomandă un Film sau un Show TV pentru a-l viziona, îl puteți adăuga rapid în Backlog. Apoi, organizați lucrurile de vizionat, împărțindu-le în Spații. Puteți avea un Spațiu cu Emisiunile TV de vizionat cu prietena dvs. sau un alt Spațiu cu Filmele de vizionat cu prietenii.
+- Easy and comprehensive organization — When a friend recommends a Movie or TV Shows for you to watch you can quickly add it to the Backlog. Next, organize the things to watch by dividing them into Spaces. You can have a Space with the TV Shows to watch with your girlfriend or another Space with the Movies to watch with your friends. 
 
- - Află unde să te uiți — Nu știi unde să vezi un film sau un Show TV? Verificați pe ce servicii online puteți urmarii, închiria sau cumpăra fiecare titlu.
+- Find out where to watch — Don't know where to watch a movie or a TV Show? Check which online services you can stream, rent or buy each title on.
 
- - Inspiră-te pentru următorul Film sau Show TV de vizionat, datorită posibilității de a vedea filme/seriale similare sau recomandate.
+- Get inspired — Get inspired on the next Movie or TV Show to watch thanks to the ability to see similar or recommended items.
 
- - Integrare cu iOS și macOS — Movie Tracker include suport pentru cele mai recente funcții Apple, inclusiv Shortcuts și Siri, în timp ce Widgeturile pot fi folosite pentru a adăuga Spațiile preferate sau Backlog-ul direct pe ecranul de start sau pe ecranul de blocare.
+- Deep integration with iOS and macOS — Movie Tracker includes support for the latest Apple features including Shortcuts and Siri, while Widgets can be used to put your favorite Spaces or Backlog right onto your Home screen or Lock Screen.
 
- - Confidențialitate — Movie Tracker nu colectează nici un fel de date personale și nu te urmărește în niciun fel. Filmele și Emisiunile TV ar trebui să fie distractive, nu un alt motiv de îngrijorare privind confidențialitatea datelor tale.
+- Privacy — Movie Tracker doesn't collect any of your personal data and doesn't track you in any way. Movies and TV Shows should be fun, not another reason to worry about your data privacy.
