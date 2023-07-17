@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  MovieTrackerApp
+
+  Created by Simone Montalto on 31/10/22.
+  
+*/
+
+"CFBundleDisplayName" = "Movie Tracker";
+
+"UIApplicationShortcutItemTitle.SearchMovies" = "Caută filme";
+"UIApplicationShortcutItemTitle.SearchTvShows" = "Caută seriale TV";

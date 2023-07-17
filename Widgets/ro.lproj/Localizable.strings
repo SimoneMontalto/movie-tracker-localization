@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  MovieTrackerApp
+
+  Created by Simone Montalto on 02/11/22.
+  
+*/
+
+"SearchMoviesOnline" = "Caută filme online";
+"SearchTvshowsOnline" = "Caută seriale TV online";
+
+"SpacesWidgetTitle" = "Spațiu";
+"SpacesWidgetDescription" = "Accesează rapid unul dintre spațiile tale";
+"SelectSpaceToShow" = "Selectează un spațiu de afișat";
+"NoMoviesOrTvShows" = "Niciun film sau serial TV";
+
+"Backlog" = "Backlog";
+"BacklogWidgetTitle" = "Backlog";
+"BacklogWidgetDescription" = "Accesează rapid backlog-ul tău";
+
+"There are %@ and %@" = "Există %@ și %@";
+"+%@ more" = "+%@ mai multe";
+
+"SearchMoviesOnlineTitle" = "Caută online";
+"SearchMoviesOnlineDescription" = "Caută un film nou";
+
+"SearchTvShowsOnlineTitle" = "Caută online";
+"SearchTvShowsOnlineDescription" = "Caută un serial TV nou";
