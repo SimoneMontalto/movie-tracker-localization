@@ -71,7 +71,6 @@
 "NoProvidersForCountryMessage" = "Nu există furnizori pentru țara selectată";
 "NoProvidersForContentMessage" = "Nu există furnizori pentru acest conținut";
 
-
 "Title" = "Titlu";
 "Description" = "Descriere";
 "Publisher" = "Editor";
@@ -208,7 +207,7 @@
 
 "TipJarDescription" = "Bună 👋 Movie Tracker a fost creat de Simone 👨🏻‍💻 cu ajutorul lui Carmen 👩🏻‍🎨! Devenind un utilizator Movie Tracker Supporter, ne poți ajuta să lucrăm la aplicație și să adaugam noi funcții!";
 
-"AppInfoDescription" = "Movie Tracker este aplicația perfectă pentru a ține ușor evidența Filmelor și Serialelor TV pe care vrei să le vizionezi. Poți gestiona colecția personală și lista de lucruri de văzut. Caută Filme și Seriale TV după titlu și organizează totul folosind Spațiile sau introdu elementele pe care le cauți în "Backlog", lista folosită pentru a grupa Filmele și Serialele TV recomandate de un prieten pe care vrei să le salvezi în grabă. Întotdeauna poți organiza elementele mai târziu mulțumită Spațiilor.\n\nAplicația este disponibilă pentru iPhone, iPad și Mac și dacă ai activat iCloud și iCloud Drive pe dispozitivele tale, biblioteca este sincronizată automat între ele.\n\nPentru orice îndoială sau solicitare, poți trimite un e-mail folosind butonul corespunzător de pe pagina "Setări".\n\nToate informațiile referitoare la Filme și Seriale TV și funcția de căutare sunt puse la dispoziție de TMDB. Lista de furnizori de la care poți transmite, cumpăra sau închiria conținut este pusă la dispoziție de JustWatch. Acest produs folosește API-ul TMDB, dar nu este aprobat sau certificat de TMDB";
+"AppInfoDescription" = "Movie Tracker este aplicația perfectă pentru a ține ușor evidența Filmelor și Serialelor TV pe care vrei să le vizionezi. Poți gestiona colecția personală și lista de lucruri de văzut. Caută Filme și Seriale TV după titlu și organizează totul folosind Spațiile sau introdu elementele pe care le cauți în \"Backlog\", lista folosită pentru a grupa Filmele și Serialele TV recomandate de un prieten pe care vrei să le salvezi în grabă. Întotdeauna poți organiza elementele mai târziu mulțumită Spațiilor.\n\nAplicația este disponibilă pentru iPhone, iPad și Mac și dacă ai activat iCloud și iCloud Drive pe dispozitivele tale, biblioteca este sincronizată automat între ele.\n\nPentru orice îndoială sau solicitare, poți trimite un e-mail folosind butonul corespunzător de pe pagina \"Setări\".\n\nToate informațiile referitoare la Filme și Seriale TV și funcția de căutare sunt puse la dispoziție de TMDB. Lista de furnizori de la care poți transmite, cumpăra sau închiria conținut este pusă la dispoziție de JustWatch. Acest produs folosește API-ul TMDB, dar nu este aprobat sau certificat de TMDB";
 
 "Reddit" = "Comunitatea Movie Tracker";
 "Website" = "Website";
