@@ -175,3 +175,16 @@
 "MarkTvShowSeasonEpisodeAsWatched" = "Dizi sezonu bölümünü İzlendi olarak işaretle";
 "MarkTvShowSeasonEpisodeAsWatchedDescription" = "Dizi sezonu bölümünü seçili tarihte İzlendi olarak işaretle";
 "Mark tv show season episode of ${tvShow} as watched ${date}" = "${tvShow} dizi sezonu bölümünü ${date} tarihinde İzlendi olarak işaretle";
+
++"SearchMovieOnline" = "Çevrimiçi film ara";
+"SearchMovieOnlineDescription" = "Yeni bir film ara";
+"SearchTvShowOnline" = "Çevrimiçi bir dizi ara";
+"SearchTvShowOnlineDescription" = "Yeni bir dizi ara";
+"Search" = "Ara";
+
+"OpenBacklog" = "İzlenecekleri aç";
+"OpenBacklogDescription" = "İzlenenecekler listesini aç";
+"Open" = "Aç";
+"OpenSpace" = "Alanı aç";
+"OpenSpaceDescription" = "Seçili Alan listesini aç";
+"Open ${space} list" = "${space} listesini aç";
