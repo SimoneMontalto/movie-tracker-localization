@@ -1,0 +1,295 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Simone Montalto on 02/09/22.
+  
+*/
+
+"WaitLoading" = "Lütfen Bekleyin...";
+
+"Movie" = "Filmler";
+"TvShow" = "Diziler";
+"SearchMovie" = "Film Ara";
+"SearchTvShow" = "Dizi Ara";
+
+"Settings" = "Ayarlar";
+"Save" = "Kaydet";
+"Manage" = "Yönet";
+"Suggestions" = "Öneriler";
+"Move" = "Taşı";
+"All" = "Tümü";
+"Sort" = "Sırala";
+"Show" = "Göster";
+"Layout" = "Yerleşim";
+"Edit" = "Düzenle";
+"Delete" = "Sil";
+"Cancel" = "İptal";
+"Retry" = "Yeniden Dene";
+"Search" = "İptal";
+"SearchPlaceholder" = "Başlığa göre çevrimiçi ara";
+"OthersSelectedActor" = "Seçili oyuncunun diğer eserleri";
+"BacklogPlaceholder" = "Bu bölümde, Alanlarda organize etmek için İzleneceklere eklenen öğeleri göreceksiniz.";
+"WatchedPlaceholder" = "Bu bölümde izlediğiniz öğeleri göreceksiniz";
+"SpacePlaceholder" = "Bu bölümde, seçilen Alana eklenen içerikleri göreceksiniz.";
+"TagPlaceholder" = "Bu bölümde, seçilen etikete eklenen içerikleri göreceksiniz.";
+"ActorPlaceholder" = "Bu bölümde seçilen oyuncunun yer aldığı eserleri göreceksiniz.";
+"DirectorPlaceholder" = "Bu bölümde seçilen yönetmenin yer aldığı eserleri göreceksiniz";
+"CategoryPlaceholder" = "Bu bölümde seçili kategorinin içeriklerini göreceksiniz";
+"SpacesPlaceholder" = "Bu bölümde Alanlarınızın listesini göreceksiniz.";
+"NoSimilarMoviesPlaceholder" = "Benzer film yok";
+"NoSimilarTvShowsPlaceholder" = "Benzer dizi yok";
+"NoRecommendedMoviesPlaceholder" = "Önerilen film yok";
+"NoRecommendedTvShowsPlaceholder" = "Önerilen dizi yok";
+"NoSpacesPlaceholder" = "Herhangi bir Alan oluşturulmadı";
+"NoNotesPlaceholder" = "Herhangi bir Not oluşturulmadı";
+"NoTagsPlaceholder" = "Herhangi bir Etiket oluşturulmadı";
+"Select" = "Seç";
+"Country" = "Ülke";
+"Attention" = "Dikkat";
+"GenericErrorMessage" = "Bir hata oluştu. Lütfen, tekrar deneyin.";
+"Ok" = "Tamam";
+"SearchOnline" = "Çevrimiçi Ara";
+"Backlog" = "Plan";
+"Spaces" = "Alanlar";
+"FavoriteSpaces" = "Favori Alanlar";
+"Tags" = "Etiketler";
+"CreateTag" = "Etiket Oluştur";
+"AddTag" = "Etiket Ekle";
+"SelectTags" = "Etiket Seç";
+"AddSpace" = "Alan Ekle";
+"SelectSpace" = "Alan Seç";
+"AddFavoriteSpace" = "Favori Alan Ekle";
+
+"SearchErrorMessage" = "Arama sırasında bir sorun oluştu. Tekrar deneyin.";
+"SaveNotEnabledErrorMessage" = "Kaydedilirken hata oluştu. Devam edebilmek için tüm alanları doldurun.";
+"ItemAlreadyPersistedLocallyErrorMessage" = "Bu öge lokal olarak zaten mevcut.";
+"DeleteLocalSpaceInfoMessage" = "Bu işlem geri alınamaz. Bu alandaki filmler ve diziler İzleneceklere taşınacaktır. Devam etmek istiyor musun?";
+"DeleteInfoMessage" = "Bu işlem geri alınamaz. Devam etmek istiyor musunuz?";
+"SpaceAlreadyInFavoriteSpacesMessage" = "Seçilen alan favorilerinize zaten ekli.";
+"DeleteLocalItemMessage" = "Bu ögeyi silmek istiyor musunuz?";
+"NoProvidersForCountryMessage" = "Seçili ülke için bir içerik sağlayıcı bulunmuyor.";
+"NoProvidersForContentMessage" = "Bu içerik için bir içerik sağlayıcı bulunmuyor.";
+
+"Title" = "Başlık";
+"Description" = "Açıklama";
+"Publisher" = "Yayıncı";
+"Producers" = "Yapımcılar";
+"Seasons" = "Sezonlar";
+"Actors" = "Oyuncular";
+"Directors" = "Yönetmenler";
+"Categories" = "Kategoriler";
+"Language" = "Dil";
+"Year" = "Yıl";
+"Duration" = "Süre";
+"ReleaseDate" = "Yayın Tarihi";
+"Add" = "Ekle";
+"AddToBacklog" = "İzleneceklere Ekle";
+"MoveTo" = "Şuraya Taşı...";
+"MoveToBacklog" = "İzleneceklere Taşı";
+"MoveToSpace" = "Alana Taşı";
+"AddToSpace" = "Alana Ekle";
+"CreateSpace" = "Alan Oluştur";
+"EditSpace" = "Alanı Düzenle";
+"ShowMore" = "Daha fazla göster";
+"ShowLess" = "Daha az göster";
+"Name" = "Ad";
+"InsertName" = "İsim gir";
+"Color" = "Renk";
+"Icon" = "İkon";
+"RemoveFavorite" = "Favoriyi Kaldır";
+"AddFavorite" = "Favori Ekle";
+"SelectIcon" = "İkon Seç";
+"More..." = "Daha...";
+"AssignTag" = "Etiket Tanımla";
+"CreateTag" = "Etiket Ekle";
+"TMDB" = "TMDB";
+"YourRate" = "Kullanıcı";
+"Streaming" = "Abonelik";
+"Buy" = "Satın Al";
+"Rent" = "Kirala";
+"WatchProviders" = "İçerik Sağlayıcılar";
+"ProvidedBy" = "içerik sağlayıcı:";
+"OpenWebsite" = "Websiteyi aç";
+"Video" = "Video";
+"ShowSimilarMovies" = "Benzer filmleri göster";
+"ShowSimilarTvShows" = "Benzer dizileri göster";
+"ShowRecommendedMovies" = "Önerilen filmleri göster";
+"ShowRecommendedTvShows" = "Önerilen dizileri göster";
+"Similar" = "Benzer";
+"Recommended" = "Önerilen";
+"RateIt" = "Puanla";
+"Note" = "Not";
+"InsertNoteOptional" = "Not ekle (opsiyonel)";
+"InsertNote" = "Not Ekle";
+"AddRating" = "Puan Ekle";
+"EditRating" = "Puanı Düzenle";
+
+"SpecialOccasions" = "Özel günler";
+"TransportationAndTravel" = "Ulaşım ve Seyahat";
+"FoodAndOutings" = "Yemek ve Gezi";
+"MoviesAndTV" = "Filmler ve Diziler";
+"SportsAndGames" = "Spor ve Oyunlar";
+"MusicAndAudio" = "Müzik ve Ses";
+"ReadingAndWriting" = "Okuma ve Yazma";
+"VisualArt" = "Görsel Sanatlar";
+"Nature" = "Doğa";
+"ScienceAndTechnology" = "Bilim ve Teknoloji";
+"Tools" = "Araçlar";
+"People" = "İnsan";
+"Home" = "Ana Menü";
+"Time" = "Süre";
+"Miscellaneous" = "Çeşitli";
+
+"EmailSubject" = "Destek %@. Sürüm: %@ - %@";
+"DeleteAll" = "Tüm Kütüphaneyi Sil";
+"ReduceHaptic" = "Titreşimleri Azalt";
+"SelectIcon" = "Uygulama ikonunu seç";
+"Info" = "Hakkında";
+"TipJar" = "Bir bahşiş bırak";
+"LeaveReview" = "Bir deperlendirme gönder";
+"SendEmail" = "E-posta gönder";
+"Next" = "Sonraki";
+"Previous" = "Önceki";
+"Start" = "Başla";
+
+"StandardLayout" = "Standart";
+"CompactLayout" = "Kompakt";
+"LittleCoverLayout" = "Kapak (küçük)";
+"LittleCoverInfoLayout" = "Kapak ve bilgiler (küçük)";
+"BigCoverLayout" = "Kapak (büyük)";
+"BigCoverInfoLayout" = "Kapak ve bilgiler (büyük)";
+
+"OnboardingTitle" = "Movie Tracker";
+"OnboardingText1" = "Movie Tracker, izlemek istediğiniz Filmleri ve Dizileri kolayca aramak ve düzenlemek için ideal bir uygulamadır.";
+"OnboardingText2" = "Bir arkadaşınız size izlemeniz için bir Film ya da Dizi mi önerdi? Hızlıca İzlenecekler listenize kaydedin.";
+"OnboardingText3" = "Alanları kullanarak neleri göreceğinizi düzenleyin. Örneğin, arkadaşlarınızla izlemek için dizilerin olduğu bir Alan ya da yılbaşında izlemek için Filmlerin olduğu bir Alan oluşturabilirsin.";
+"OnboardingText4" = "Bir filmi ya da diziyi hangi sağlayıdan abonelik planı ile izleyebileceğinizi, kiralayabileceğinizi veya satın alacağınızı öğrenmek mi istiyorsun? Movie Tracker ile kolayca kontrol edebilirsin.";
+"OnboardingText5" = "iCloud ve iCloud Drive'ı etkinleştirildiğinde, kitaplığınız otomatik olarak tüm cihazlarınızda eşitlenir.";
+
+"OnboardingTitle1" = "İzleyeceğin filmleri ve dizileri organize et";
+"OnboardingTitle2" = "İzlenecekler listene eklemeler yap";
+"OnboardingTitle3" = "İçerikleri Alanlara göre ayır";
+"OnboardingTitle4" = "Film ve Dizileri nereden izleyebileceğini gör";
+"OnboardingTitle5" = "iCloud ile Eşzamanla";
+
+"PremiumTitle" = "Movie Tracker Pro";
+"PremiumSubtitle" = "Tüm Özellikleri Aç";
+
+"SendEmailTitle" = "Hangi uygulamayı kullanarak e-posta göndermek istiyorsun?";
+"Mail" = "Mail";
+"Gmail" = "Gmail";
+"Spark" = "Spark";
+"Default" = "Varsayılan";
+"CannotShowEmailComposerTitle" = "E-posta gönderilemiyor.";
+"CannotShowEmailComposerMessage" = "Bir e-posta gönderebilmek için, cihazınıda bir e-posta uygulaması ayarlamasınız.";
+
+"DeleteAllTitle" = "Emin misin?";
+"DeleteAllMessage" = "Bu eylem geri alınamaz ve tüm kütüphanen silinecek.";
+"DeleteAllAction" = "Tümünü Sil";
+
+"InAppRestore" = "Satınalımı geri yükle";
+"Continue" = "Devam Et";
+"OneTime" = "one-time";
+"TryForFree" = "Ücretsiz Dene";
+"ErrorOccurred" = "Bir problem oluştu, daha sonra tekrar deneyin.";
+"CannotMakePurchase" = "Cihazınız satın alım yapmak için aktifleştirilmedi.";
+"ThanksgivingTitle" = "Satın alma tamamlandı.";
+"ThanksgivingMessage" = "Desteğin için teşekkürler ❤️";
+"NoPurchaseToRestore" = "Hesabınla ilişkili bir uygulama içi satın alım bulunamadı";
+
+"InAppDescription" = "Merhaba 👋 Movie Tracker, Carmen'in 👩🏻‍🎨 yardımıyla ile Simone 👨🏻‍💻 tarafından geliştirildi! Bir Movie Tracker Profesyonel kullanıcısı olarak tek seferlik bir uygulama içi satın alım ile, uygulama üzerinde çalışmamıza yardımcı olabilirsin ve bu sayede yeni özellikler edinebilirsin!";
+"InAppFeature1" = "Sınırsız sayıda Film ve Dizi takip et";
+"InAppFeature2" = "Sınırsız sayıda Alan oluştur";
+"InAppFeature3" = "Uygulama ikonunu değiştir";
+"InAppFeature4" = "Bağımsız bir geliştiriyi destekle";
+"InAppFooter" = "Movie Tracker gizliliğine saygı duyar be senin hakkında hiçbir veri toplamaz. Tüm özellikler cihazında gerçekleşir ve veriler iCloud hesabınla eşlenir.";
+
+"TipJarDescription" = "Merhaba 👋 Movie Tracker, Carmen'in 👩🏻‍🎨 yardımıyla ile Simone 👨🏻‍💻 tarafından geliştirildi! Bir Movie Tracker Destekleyicisi olarak, uygulama üzerinde çalışmamıza yardımcı olabilirsin ve bu sayede yeni özellikler edinebilirsin!";
+
+"AppInfoDescription" = "Movie Tracker, izlemek istediğiniz filmleri ve dizileri kolayca takip etmek için harika bir uygulamadır. Kişisel koleksiyonunu ve izlemek istediğin şeyleri yönetebilir, planlayabilirsin. Dizileri ve filmleri adları ile arayabilir, her şeyi Alanlar'a göre organize edebilirsin. Ya da aradığın şeyi \"İzlenecekler\"'e ekleyebilirsin. İzlenecekler listesi, bir arkadaşının ya da başka birinin bir dizi / film önerdiği o anda, hemen ekleme yapabileceğin bir yerdir. Ögelerini her zaman Alanlar özelliği sayesinde organize edebilirsin.\n\nBu uygulama iPhone, iPad ve Mac için mevcuttur ve cihazlarınzda iCloud ve iCloud Drive etkin ise, içeriklerin cihazların arasında otomatik olarak eşitlenir.\n\nHerhangi bir şüpheniz veya talebiniz için, \"Ayarlar\" sayfasında yer alan düğmeyi kullanarak e-posta gönderebilirsin.\n\nFilmler, Diziler ve arama sonuçları ile ilgili tüm bilgiler TMDB tarafından sağlanır. Dizi ve filmleri, satın alabileceğiniz, kiralayabileceğiniz ya da hangi platformlarda izleyebileceğinizin bilgisi JustWatch tarafından sağlanır. Bu uygulama TMDB API'sini kullanır ancak TMDB tarafından onaylanmamış ya da sertifikalandırılmamıştır.;
+
+
+
+"Reddit" = "Movie Tracker Komünitesi";
+"Website" = "Website";
+"Twitter" = "Twitter";
+"Facebook" = "Facebook";
+
+"DefaultIcon" = "Varsayılan";
+"MacStyleIcon" = "Mac";
+"BlackIcon" = "Siyah";
+"RedIcon" = "Kırmızı";
+"WhiteIcon" = "Beyaz";
+
+"AllSeasons" = "Tüm Sezonlar";
+"MarkAsWatched" = "İzlendi olarak işaretle";
+"MarkAsWatched..." = "İzlendi olarak işaretle...";
+"MarkAsWatchedToday" = "Bugün izlendi olarak işarele";
+"MarkAsRewatched" = "Yeniden İzlendi olarak işaretle";
+"MarkAsRewatched..." = "Yeniden İzlendi olarak işaretle...";
+"MarkAsRewatchedToday" = "Bugün Yeniden İzlendi olarak işaretle";
+"MarkAsWatchedAllTvShowMessage" = "Bu dizinin tüm sezonlarını İzlendi olarak işaretlemek istiyor musun?";
+"MarkAsWatchedAllTvShowEpisodesMessage" = "Bu sezonun tüm bölümlerini İzlendi olarak işaretlemek istiyor musun?";
+
+"ItemNotWatchedMessage" = "Henüz %@ izlemedin.";
+"ShowAllActivities" = "Tüm aktiviteleri göster";
+"Activities" = "Aktiviteler";
+"ShowWatched" = "İzlenenleri Göster";
+"HideWatched" = "İzlenenleri Gizle";
+
+"Rumored" = "Söylentiler Dolaşıyor";
+"Planned" = "Planlandı";
+"In Production" = "Yapım Aşamasında";
+"Post Production" = "Post Prodüksiyon";
+"Released" = "Yayınlandı";
+"Canceled" = "İptal Edildi";
+"Pilot" = "Pilot";
+"Ended" = "Bitti";
+"Returning Series" = "Geri Dönen Dizi";
+
+"Watched" = "İzlendi";
+"SearchCountry" = "Ülke Ara";
+"WhereToWatchCountry" = "Hangi ülkede izliyorsun";
+
+"Statistics" = "İstatistikler";
+"WatchedMovies" = "İzlenen Filmler";
+"Movies" = "Filmler";
+"WatchedTvShowSeasons" = "İzlenen Sezonlar";
+"TvShowSeasons" = "Sezonlar";
+"WatchedTvShows" = "İzlenen Diziler";
+"TvShows" = "Diziler";
+"Day" = "Gün";
+"Month" = "Ay";
+"ThisWeek" = "Bu Hafta";
+"LastWeek" = "Geçen Hafta";
+"ThisMonth" = "Bu Ay";
+"LastMonth" = "Geçen Ay";
+"ThisYear" = "Bu Yıl";
+"LastYear" = "Geçen Yıl";
+"WatchStreak" = "İzleme Serisi";
+"WatchedMoviesAverageDaily" = "Gün başına izlenen ortalama film sayısı %.1f.";
+"WatchedTvShowSeasonsAverageDaily" = "Gün başına izlenen ortalama sezon sayısı %.1f.";
+"WatchedMoviesAverageMonthly" = "Aylık ortalama izlenen film sayısı %.1f.";
+"WatchedTvShowSeasonsAverageMonthly" = "Aylık ortalama izlenen sezon sayısı %.1f.";
+"MostWatchedActors" = "En çok izlenen oyuncular";
+"MostWatchedGenres" = "En çok izlenen kategori";
+
+"Notes" = "Notlar";
+"AddNote" = "Not Ekle";
+"EditNote" = "Notu Düzenle";
+
+"UserRating" = "Kullanıcı Puanı";
+"ExternalRating" = "Puan";
+
+"Contributors" = "Destekçiler";
+
+"DeleteActivitiesInfoMessage" = "Tüm aktiviteleri silmek üzeresin. Bu eylem geri alınamaz. İlerlemek istiyor musun?";
+"AllEpisodes" = "Tüm Bölümler";
+"Episodes" = "Bölümler";
+"WatchedTvShowSeasonEpisodes" = "İzlenen bölümler";
+"WatchedTvShowSeasonEpisodesAverageDaily" = "Gün başına izlenen ortalama bölüm sayısı %.1f.";
+"WatchedTvShowSeasonEpisodesAverageMonthly" = "Aylık ortalama izlenen bölüm sayısı %.1f.";
+
+"ItemsMigratingTitle" = "Ayarlanıyor...";
+"ItemsMigratingSubtitle" = "Devam etmeden önce bazı güncellemeler gerekiyor. Fazla uzun sürmez.";
