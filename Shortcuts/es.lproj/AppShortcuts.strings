@@ -6,7 +6,9 @@
   
 */
 
+"Search Movies online in ${applicationName}" = "Buscar películas en línea en ${applicationName}";
+"Search TV Shows online in ${applicationName}" = "Buscar series de TV en línea en ${applicationName}";
 "Watch providers for ${movie} with ${applicationName}" = "Ver proveedores para ${movie} en ${applicationName}";
-"Watch providers for a movie with ${applicationName}" = "Ver proveedores para una película en ${applicationName}";
 "Watch providers for ${tvShow} with ${applicationName}" = "Ver proveedores para ${tvShow} en ${applicationName}";
-"Watch providers for a tv show with ${applicationName}" = "Ver proveedores para una serie de TV en ${applicationName}";
+"Open backlog in ${applicationName}" = "Abrir pendientes en ${applicationName}";
+"Open ${space} in ${applicationName}" = "Abrir ${space} en ${applicationName}";

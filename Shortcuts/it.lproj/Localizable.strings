@@ -175,3 +175,16 @@
 "MarkTvShowSeasonEpisodeAsWatched" = "Segna Puntata Serie TV come Vista";
 "MarkTvShowSeasonEpisodeAsWatchedDescription" = "Segna la puntata della serie tv come vista nella data selezionata";
 "Mark tv show season episode of ${tvShow} as watched ${date}" = "Segna puntata di ${tvShow} come vista ${date}";
+
+"SearchMovieOnline" = "Cerca Film Online";
+"SearchMovieOnlineDescription" = "Cerca un nuovo film";
+"SearchTvShowOnline" = "Cerca Serie TV online";
+"SearchTvShowOnlineDescription" = "Cerca una nuova serie TV";
+"Search" = "Cerca";
+
+"OpenBacklog" = "Apri Raccolta";
+"OpenBacklogDescription" = "Apri la Raccolta";
+"Open" = "Apri";
+"OpenSpace" = "Apri Spazio";
+"OpenSpaceDescription" = "Apri la lista dello spazio selezionato";
+"Open ${space} list" = "Apri lista ${space}";
