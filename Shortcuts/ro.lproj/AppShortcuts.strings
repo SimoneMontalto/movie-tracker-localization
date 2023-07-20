@@ -6,7 +6,10 @@
   
 */
 
+"Search Movies online in ${applicationName}" = "Căutare filme online în ${applicationName}";
+"Search TV Shows online in ${applicationName}" = "Căutare seriale TV online în ${applicationName}";
 "Watch providers for ${movie} with ${applicationName}" = "Vezi furnizorii pentru ${movie} cu ${applicationName}";
-"Watch providers for a movie with ${applicationName}" = "Vezi furnizorii pentru un film cu ${applicationName}";
 "Watch providers for ${tvShow} with ${applicationName}" = "Vezi furnizorii pentru ${tvShow} cu ${applicationName}";
-"Watch providers for a tv show with ${applicationName}" = "Vezi furnizorii pentru un serial cu ${applicationName}";
+
+"Open backlog in ${applicationName}" = "Deschide backlog în ${applicationName}";
+"Open ${space} in ${applicationName}" = "Deschide ${space} în ${applicationName}";

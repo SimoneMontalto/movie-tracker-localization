@@ -175,3 +175,16 @@
 "MarkTvShowSeasonEpisodeAsWatched" = "Marchează episodul sezonului serialului TV ca vizionat";
 "MarkTvShowSeasonEpisodeAsWatchedDescription" = "Marchează episodul sezonului serialului TV ca vizionat la data selectată";
 "Mark tv show season episode of ${tvShow} as watched ${date}" = "Marchează episodul sezonului serialului TV ${tvShow} ca vizionat la data ${date}";
+
+"SearchMovieOnline" = "Căutare film online";
+"SearchMovieOnlineDescription" = "Căutați un film nou";
+"SearchTvShowOnline" = "Căutare serial TV online";
+"SearchTvShowOnlineDescription" = "Căutați un serial TV nou";
+"Search" = "Căutare";
+
+"OpenBacklog" = "Deschide lista de backlog";
+"OpenBacklogDescription" = "Deschide lista de backlog";
+"Open" = "Deschide";
+"OpenSpace" = "Deschide spațiul";
+"OpenSpaceDescription" = "Deschide lista spațiului selectat";
+"Open ${space} list" = "Deschide lista ${space}";
