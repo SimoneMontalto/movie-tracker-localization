@@ -38,5 +38,21 @@
 			<string>%d de Seriale TV</string>
 		</dict>
 	</dict>
+	<key>NumberOfTvShowEpisodes</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@value@</string>
+		<key>value</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>1 episod</string>
+			<key>other</key>
+			<string>%d episoade</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
