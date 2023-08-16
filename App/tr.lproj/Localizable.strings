@@ -26,7 +26,7 @@
 "Delete" = "Sil";
 "Cancel" = "İptal";
 "Retry" = "Yeniden Dene";
-"Search" = "İptal";
+"Search" = "Ara";
 "SearchPlaceholder" = "Başlığa göre çevrimiçi ara";
 "OthersSelectedActor" = "Seçili oyuncunun diğer eserleri";
 "BacklogPlaceholder" = "Bu bölümde, Alanlarda organize etmek için İzleneceklere eklenen öğeleri göreceksiniz.";
@@ -50,7 +50,7 @@
 "GenericErrorMessage" = "Bir hata oluştu. Lütfen, tekrar deneyin.";
 "Ok" = "Tamam";
 "SearchOnline" = "Çevrimiçi Ara";
-"Backlog" = "Plan";
+"Backlog" = "İzlenecekler";
 "Spaces" = "Alanlar";
 "FavoriteSpaces" = "Favori Alanlar";
 "Tags" = "Etiketler";
@@ -147,7 +147,7 @@
 "SelectIcon" = "Uygulama ikonunu seç";
 "Info" = "Hakkında";
 "TipJar" = "Bir bahşiş bırak";
-"LeaveReview" = "Bir deperlendirme gönder";
+"LeaveReview" = "Bir değerlendirme gönder";
 "SendEmail" = "E-posta gönder";
 "Next" = "Sonraki";
 "Previous" = "Önceki";
@@ -248,7 +248,7 @@
 "Ended" = "Bitti";
 "Returning Series" = "Geri Dönen Dizi";
 
-"Watched" = "İzlendi";
+"Watched" = "İzlenenler";
 "SearchCountry" = "Ülke Ara";
 "WhereToWatchCountry" = "Hangi ülkede izliyorsun";
 
