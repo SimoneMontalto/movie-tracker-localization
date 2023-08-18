@@ -1,0 +1,190 @@
+/* 
+  Localizable.strings
+  MovieTrackerApp
+
+  Created by Simone Montalto on 14/10/22.
+  
+*/
+
+"Edit" = "Düzenle";
+"Create" = "Oluştur";
+"Website" = "Website";
+"URL" = "URL";
+"Title" = "Başlık";
+"OriginalTitle" = "Orijinal Başlık";
+"Description" = "Açıklama";
+"Language" = "Dil";
+"Languages" = "Diller";
+"Country" = "Ülke";
+"OriginCountry" = "Menşe ülke";
+"ReleaseDate" = "Yayın tarihi";
+"Link" = "Link";
+"AverageRate" = "Ortalama puan";
+"ProductionCompanies" = "Prodüksiyon şirketleri";
+"ProductionCountries" = "Prodüksiyon ülkeleri";
+"Directors" = "Yönetmenler";
+"Categories" = "Kategoriler";
+"Actors" = "Oyuncular";
+"Spaces" = "Alanlar";
+"Tags" = "Etiketler";
+"Source" = "Kaynak";
+"ReleaseStatus" = "Yayın durumu";
+"Video" = "Video";
+"EpisodeCount" = "Bölüm sayısı";
+"SeasonNumber" = "Sezon numarası";
+"AirDate" = "Gösterim tarihi";
+"NumberOfEpisodes" = "Bölüm sayısı";
+"NumberOfSeasons" = "Sezon sayısı";
+"Videos" = "Videolar";
+"Seasons" = "Sezonlar";
+"Watched" = "İzlenenler";
+"Runtime" = "Süre";
+
+"Name" = "Ad";
+"NameQuestion" = "Adı ne?";
+"Surname" = "Soyad";
+"SurnameQuestion" = "Soyadı ne?";
+
+"Tag" = "Etiket";
+"CreateTag" = "Etiket oluştur";
+"CreateTagDescription" = "Yeni bir etiket oluştur";
+"Create ${name} tag" = "${name} etiketi oluştur";
+"TagCreated" = "Etiket oluşturma başarılı";
+
+"Space" = "Alan";
+"CreateSpace" = "Alan Oluştur";
+"CreateSpaceDescription" = "Yeni bir Alan oluştur.";
+"Create ${name} space" = "${name} Alanı oluştur";
+"SpaceCreated" = "Alan oluşturma başarılı";
+
+"Backlog" = "İzlenecekler";
+"Category" = "Kategori";
+"Creator" = "Oluşturan";
+"Creators" = "Oluşturanlar";
+"RemoteSource" = "Uzak kaynak";
+"tmdb" = "TMDB";
+
+"Movie" = "Film";
+"MovieReleaseStatus" = "Film yayın durumu";
+
+"TvShow" = "Dizi";
+"TvShowSeason" = "Dizi Sezonu";
+"TvShowSeasonQuestion" = "Dizi Sezonu Nedir?";
+"TvShowReleaseStatus" = "Dizi yayın durumu";
+
+"Rumored" = "Söylentiler Dolaşıyor";
+"Planned" = "Planlandı";
+"In Production" = "Yapım Aşamasında";
+"Post Production" = "Post Prodüksiyon";
+"Released" = "Yayınlandı";
+"Canceled" = "İptal Edildi";
+"Pilot" = "Pilot";
+"Ended" = "Bitti";
+"Returning Series" = "Geri Dönen Dizi";
+
+"Add" = "Ekle";
+"Move" = "Taşı";
+"Watch" = "İzle";
+"TagsQuestion" = "Etiket nedir?";
+
+"Movies" = "Filmler";
+"MoviesQuestion" = "Film nedir?";
+"AddTagsToMovies" = "Filmlere etiket ekle";
+"AddTagsToMoviesDescription" = "Seçili filme bir ya da daha fazla etiket tanımla";
+"Assign ${tags} to ${movies}" = "${tags} etiketini ${movies} filmlerine tanımla";
+"MoviesUpdated" = "Filmler güncellendi";
+
+"TvShows" = "Diziler";
+"TvShowsQuestion" = "Diziler nedir?";
+"AddTagsToTvShows" = "Dizilere etiket ekle";
+"AddTagsToTvShowsDescription" = "Seçili diziye bir ya da daha fazla etiket tanımla";
+"Assign ${tags} to ${tvShows}" = "${tags} etiketini ${tvShows} dizilerine tanımla";
+"TvShowsUpdated" = "Diziler güncellendi";
+
+"SpaceQuestion" = "Alan nedir?";
+"MoveMoviesToSpace" = "Filmleri Alana taşı";
+"MoveMoviesToSpaceDescription" = "Filmleri seçili Alana taşı";
+"Move ${movies} to ${space}" = "${movies} filmlerini ${space} Alanına taşı";
+"SpaceNotFoundError" = "Seçili Alan bulunamadı.";
+"MovieNotFoundError" = "Seçili film bulunamadı.";
+"TvShowNotFoundError" = "Seçili dizi bulunamadı.";
+"CannotSearchWatchProvidersForSelectedItemError" = "Seçili içerik için içerik sağlayıcıları bulunamadı.";
+
+"MoveTvShowsToSpace" = "Dizileri Alana taşı";
+"MoveTvShowsToSpaceDescription" = "Dizileri seçili alana taşı";
+"Move ${tvShows} to ${space}" = "${tvShows} dizilerini ${space} Alanına taşı";
+
+"MoveMoviesToBacklog" = "Filmleri İzleneceklere taşı";
+"MoveMoviesToBacklogDescription" = "Filmleri İzleneceklere taşı";
+"Move ${movies} to the Backlog" = "${movies} filmlerini İzleneceklere taşı";
+
+"MoveTvShowsToBacklog" = "Dizileri İzleneceklere taşı";
+"MoveTvShowsToBacklogDescription" = "Dizileri İzleneceklere taşı";
+"Move ${tvShows} to the Backlog" = "${tvShows} dizilerini İzleneceklere taşı";
+
+"MovieQuestion" = "Film nedir?";
+"WatchProvidersForMovie" = "WFilm için içerik sağlayıcıları";
+"WatchProvidersForMovieDescription" = "Seçili filmi hangi platformlarda izleyebileceğini görebilirsin";
+"Where can I watch ${movie} in ${country}?" = "${movie} filmini ${country} ülkesinde nerede izleyebilirim?";
+
+"TvShowQuestion" = "Dizi nedir?";
+"WatchProvidersForTvShow" = "Dizi için İçerik Sağlayıcıları";
+"WatchProvidersForTvShowDescription" = "Seçili diziyi hangi platformlarda izleyebileceğini görebilirsin";
+"Where can I watch ${tvShow} in ${country}?" = "${tvShow} dizisini ${country} ülkesinde nerede izleyebilirim?";
+
+"Country" = "Ülke";
+"CountryQuestion" = "Ülke nedir?";
+"NoProvidersForCountryMessage" = "Seçili ülke için içerik sağlayıcısı bulunamadı";
+"Streaming" = "Abonelikler";
+"Buy" = "Satın Al";
+"Rent" = "Kirala";
+
+"Activity" = "Aktiviteler";
+"Date" = "Tarih";
+"DateQuestion" = "Tarih nedir?";
+
+"MarkedAsWatched" = "İzlendi olarak işaretlendi";
+"MarkMovieAsWatched" = "Filmi izlendi olarak işaretle";
+"MarkMovieAsWatchedDescription" = "Filmi seçili tarihte İzlendi olarak işaretle";
+"Mark ${movie} as watched ${date}" = "${movie} filmini ${date} tarihinde İzlendi olarak işaretle";
+
+"MarkTvShowAsWatched" = "Diziyi İzlendi olarak işaretle";
+"MarkTvShowAsWatchedDescription" = "Diziyi seçili tarihte İzlendi olarak işaretle";
+"Mark ${tvShow} as watched ${date}" = "${tvShow} dizisini ${date} tarihinde İzlendi olarak işaretle";
+
+"MarkTvShowSeasonAsWatched" = "Dizi sezonunu İzlendi olarak işaretle";
+"MarkTvShowSeasonAsWatchedDescription" = "Dizi sezonunu seçili tarihte İzlendi olarak işaretle";
+"Mark ${tvShowSeason} as watched ${date}" = "${tvShowSeason} dizi sezonunu ${date} tarihinde İzlendi olarak işaretle";
+
+"Note" = "Not";
+"Notes" = "Notlar";
+"Rating" = "Puan";
+"Ratings" = "Puanlar";
+
+"WatchStatus" = "İzleme Durumu";
+"Watching" = "İzleniyor";
+"NotWatched" = "İzlenmedi";
+
+"TvShowSeasonEpisode" = "Dizi Bölümü";
+"EpisodeNumber" = "Bölüm Numarası";
+"Episodes" = "Bölümler";
+
+"Mark tv show season of ${tvShow} as watched ${date}" = "${tvShow} dizisinin sezonunu ${date} tarihinde İzlendi olarak işaretle";
+
+"TvShowSeasonEpisodeQuestion" = "Dizi sezonu bölümü nedir?";
+"MarkTvShowSeasonEpisodeAsWatched" = "Dizi sezonu bölümünü İzlendi olarak işaretle";
+"MarkTvShowSeasonEpisodeAsWatchedDescription" = "Dizi sezonu bölümünü seçili tarihte İzlendi olarak işaretle";
+"Mark tv show season episode of ${tvShow} as watched ${date}" = "${tvShow} dizi sezonu bölümünü ${date} tarihinde İzlendi olarak işaretle";
+
++"SearchMovieOnline" = "Çevrimiçi film ara";
+"SearchMovieOnlineDescription" = "Yeni bir film ara";
+"SearchTvShowOnline" = "Çevrimiçi bir dizi ara";
+"SearchTvShowOnlineDescription" = "Yeni bir dizi ara";
+"Search" = "Ara";
+
+"OpenBacklog" = "İzlenecekleri aç";
+"OpenBacklogDescription" = "İzlenenecekler listesini aç";
+"Open" = "Aç";
+"OpenSpace" = "Alanı aç";
+"OpenSpaceDescription" = "Seçili Alan listesini aç";
+"Open ${space} list" = "${space} listesini aç";

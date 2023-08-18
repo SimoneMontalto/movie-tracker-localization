@@ -1,0 +1,14 @@
+/* 
+  AppShortcuts.strings
+  MovieTrackerApp
+
+  Created by Simone Montalto on 30/10/22.
+  
+*/
+
+"Search Movies online in ${applicationName}" = "${applicationName} içinde filmleri çevrimiçi ara";
+"Search TV Shows online in ${applicationName}" = "${applicationName} için dizileri çevrimiçi ara";
+"Watch providers for ${movie} with ${applicationName}" = "${movie} filmi için içerik sağlayıcıları ${applicationName}";
+"Watch providers for ${tvShow} with ${applicationName}" = "${tvShow} dizisi için içerik sağlayıcıları ${applicationName}";
+"Open backlog in ${applicationName}" = "İzlenecekleri ${applicationName} içerisinde aç";
+"Open ${space} in ${applicationName}" =  "${space} Alanını ${applicationName} içerisinde aç";
