@@ -26,3 +26,10 @@
 
 "SearchTvShowsOnlineTitle" = "Online suchen";
 "SearchTvShowsOnlineDescription" = "Siche nach einer neuen TV-Sendung";
+
+"DAYS" = "TAGE";
+"Log" = "Protokoll";
+"You watched all the episodes" = "Du hast alle Folgen gesehen";
+"Select a TV Show" = "Wähle eine TV-Serie aus";
+"Next to watch" = "Als nächstes ansehen";
+"Look at the next episode to watch of the selected TV Show" = "Schau dir die nächste Folge der ausgewählten TV-Serie an";

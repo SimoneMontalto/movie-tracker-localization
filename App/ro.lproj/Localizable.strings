@@ -339,3 +339,8 @@
 "Try %@" = "Încearcă %@";
 "%@, then %@" = "%@, apoi %@";
 "Save %@" = "Salvează %@";
+
+"OtherApps" = "Alte aplicații";
+
+"NoTvShowsToWatch" = "Nu există emisiuni TV de urmărit";
+"NextToWatch" = "Următoarele episoade";

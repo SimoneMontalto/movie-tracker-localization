@@ -339,3 +339,8 @@
 "Try %@" = "Try %@";
 "%@, then %@" = "%@, ardından %@";
 "Save %@" = "%@ Kaydet";
+
+"OtherApps" = "Diğer uygulamalar";
+
+"NoTvShowsToWatch" = "İzlenecek TV Programı Yok";
+"NextToWatch" = "Sonraki bölümler";

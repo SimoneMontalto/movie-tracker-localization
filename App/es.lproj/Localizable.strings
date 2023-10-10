@@ -339,3 +339,8 @@
 "Try %@" = "Prueba %@";
 "%@, then %@" = "%@, luego %@";
 "Save %@" = "Guardar %@";
+
+"OtherApps" = "Otras aplicaciones";
+
+"NoTvShowsToWatch" = "No hay programas de TV para ver";
+"NextToWatch" = "Próximos episodios";
