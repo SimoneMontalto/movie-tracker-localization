@@ -188,3 +188,30 @@
 "OpenSpace" = "Abrir Espacio";
 "OpenSpaceDescription" = "Abrir la lista de espacio seleccionado";
 "Open ${space} list" = "Abrir lista de ${space}";
+
+"SearchMoviesOnline" = "Buscar películas en línea";
+"SearchTvshowsOnline" = "Buscar series de TV en línea";
+
+"SpacesWidgetTitle" = "Espacio";
+"SpacesWidgetDescription" = "Accede rápidamente a uno de tus Espacios";
+"SelectSpaceToShow" = "Selecciona un Espacio para mostrar";
+"NoMoviesOrTvShows" = "Sin películas ni series de TV";
+
+"BacklogWidgetTitle" = "Pendientes";
+"BacklogWidgetDescription" = "Accede rápidamente a tu Lista de Pendientes";
+
+"There are %@ and %@" = "Hay %@ y %@";
+"+%@ more" = "+%@ más";
+
+"SearchMoviesOnlineTitle" = "Buscar en línea";
+"SearchMoviesOnlineDescription" = "Buscar una nueva película";
+
+"SearchTvShowsOnlineTitle" = "Buscar en línea";
+"SearchTvShowsOnlineDescription" = "Buscar una nueva serie de TV";
+
+"DAYS" = "DÍAS";
+"Log" = "Registro";
+"You watched all the episodes" = "Has visto todos los episodios";
+"Select a TV Show" = "Selecciona una serie de TV";
+"Next to watch" = "Próximo para ver";
+"Look at the next episode to watch of the selected TV Show" = "Mira el próximo episodio para ver de la serie de TV seleccionada";

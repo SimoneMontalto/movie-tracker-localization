@@ -2,7 +2,7 @@
   Localizable.strings
   
 
-  Created by Viorel Porumbescu ib 05.07.2023.
+  Created by Simone Montalto on 02/09/22.
   
 */
 
@@ -344,3 +344,6 @@
 
 "NoTvShowsToWatch" = "Nu există emisiuni TV de urmărit";
 "NextToWatch" = "Următoarele episoade";
+
+"SearchActorsDirectors" = "Caută actor sau regizor";
+"SearchCreators" = "Căutare după actor sau regizor";

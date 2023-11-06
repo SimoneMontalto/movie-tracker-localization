@@ -344,3 +344,6 @@
 
 "NoTvShowsToWatch" = "İzlenecek TV Programı Yok";
 "NextToWatch" = "Sonraki bölümler";
+
+"SearchActorsDirectors" = "Oyuncu veya yönetmen ara";
+"SearchCreators" = "Aktör veya Yönetmene göre ara";

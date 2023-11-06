@@ -188,3 +188,30 @@
 "OpenSpace" = "Space öffnen";
 "OpenSpaceDescription" = "Öffne die ausgewählte Space-Liste";
 "Open ${space} list" = "${space}-Liste öffnen";
+
+"SearchMoviesOnline" = "Suche online nach Filmen";
+"SearchTvshowsOnline" = "Suche online nach TV-Sendungen";
+
+"SpacesWidgetTitle" = "Space";
+"SpacesWidgetDescription" = "Schnellzugriff auf deine Spaces";
+"SelectSpaceToShow" = "Wähle einen Space zum Anzeigen aus";
+"NoMoviesOrTvShows" = "Keine Filme oder TV-Sendungen";
+
+"BacklogWidgetTitle" = "Backlog";
+"BacklogWidgetDescription" = "Schnellzugriff auf dein Backlog";
+
+"There are %@ and %@" = "Es gibt %@ und %@";
+"+%@ more" = "+%@ mehr";
+
+"SearchMoviesOnlineTitle" = "Online suchen";
+"SearchMoviesOnlineDescription" = "Suche nach einem neuen Film";
+
+"SearchTvShowsOnlineTitle" = "Online suchen";
+"SearchTvShowsOnlineDescription" = "Siche nach einer neuen TV-Sendung";
+
+"DAYS" = "TAGE";
+"Log" = "Protokoll";
+"You watched all the episodes" = "Du hast alle Folgen gesehen";
+"Select a TV Show" = "Wähle eine TV-Serie aus";
+"Next to watch" = "Als nächstes ansehen";
+"Look at the next episode to watch of the selected TV Show" = "Schau dir die nächste Folge der ausgewählten TV-Serie an";

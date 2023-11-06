@@ -188,3 +188,30 @@
 "OpenSpace" = "Alanı aç";
 "OpenSpaceDescription" = "Seçili Alan listesini aç";
 "Open ${space} list" = "${space} listesini aç";
+
+"SearchMoviesOnline" = "Filmleri İnternette Ara";
+"SearchTvshowsOnline" = "Dizileri İnternette Ara";
+
+"SpacesWidgetTitle" = "Alan";
+"SpacesWidgetDescription" = "Alanlarından birine hızlıca eriş";
+"SelectSpaceToShow" = "Gösterilecek bir Alan seç";
+"NoMoviesOrTvShows" = "Film ya da Dizi yok";
+
+"BacklogWidgetTitle" = "İzlenecekler";
+"BacklogWidgetDescription" = "İzleneceklerine hızlıca eriş";
+
+"There are %@ and %@" = "%@ ve %@ bulundu.";
+"+%@ more" = "+%@ daha fazla";
+
+"SearchMoviesOnlineTitle" = "İnternette Ara";
+"SearchMoviesOnlineDescription" = "Yeni bir Film ara";
+
+"SearchTvShowsOnlineTitle" = "İnternette Ara";
+"SearchTvShowsOnlineDescription" = "Yeni bir Dizi ara";
+
+"DAYS" = "GÜNLER";
+"Log" = "Kayıt";
+"You watched all the episodes" = "Tüm bölümleri izlediniz";
+"Select a TV Show" = "Bir TV Programı Seçin";
+"Next to watch" = "İzlenecek Sonraki";
+"Look at the next episode to watch of the selected TV Show" = "Seçilen TV Programının İzlenecek Sonraki Bölümüne Bakın";
