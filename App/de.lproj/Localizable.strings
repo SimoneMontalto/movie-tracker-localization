@@ -347,3 +347,9 @@
 
 "SearchActorsDirectors" = "Suche nach Schauspieler oder Regisseur";
 "SearchCreators" = "Suche nach Schauspieler oder Regisseur";
+
+"TopRatedMovie" = "Am besten bewerteter Film";
+"TopRatedTvShow" = "Am besten bewertete TV-Show";
+"TopRatedTvShowSeasonEpisode" = "Am besten bewertete Episode";
+"MostWatchedActor" = "Am meisten angesehener Schauspieler";
+"MostWatchedGenre" = "Am meisten angesehene Kategorie";

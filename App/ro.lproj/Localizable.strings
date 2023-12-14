@@ -347,3 +347,9 @@
 
 "SearchActorsDirectors" = "Caută actor sau regizor";
 "SearchCreators" = "Căutare după actor sau regizor";
+
+"TopRatedMovie" = "Cel mai bine cotat film";
+"TopRatedTvShow" = "Cel mai bine cotată emisiune TV";
+"TopRatedTvShowSeasonEpisode" = "Episod cu cel mai mare rating";
+"MostWatchedActor" = "Cel mai urmărit actor";
+"MostWatchedGenre" = "Categoria cea mai urmărită";

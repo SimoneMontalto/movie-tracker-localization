@@ -347,3 +347,9 @@
 
 "SearchActorsDirectors" = "Oyuncu veya yönetmen ara";
 "SearchCreators" = "Aktör veya Yönetmene göre ara";
+
+"TopRatedMovie" = "En İyi Dereceli Film";
+"TopRatedTvShow" = "En İyi Dereceli TV Programı";
+"TopRatedTvShowSeasonEpisode" = "En İyi Dereceli Bölüm";
+"MostWatchedActor" = "En Çok İzlenen Oyuncu";
+"MostWatchedGenre" = "En Çok İzlenen Kategori";

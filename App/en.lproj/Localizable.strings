@@ -347,3 +347,9 @@
 
 "SearchActorsDirectors" = "Search actor or director";
 "SearchCreators" = "Search by Actor or Director";
+
+"TopRatedMovie" = "Top Rated Movie";
+"TopRatedTvShow" = "Top Rated TV Show";
+"TopRatedTvShowSeasonEpisode" = "Top Rated Episode";
+"MostWatchedActor" = "Most Watched Actor";
+"MostWatchedGenre" = "Most Watched Category";
